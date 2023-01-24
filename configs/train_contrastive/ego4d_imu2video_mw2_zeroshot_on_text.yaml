@@ -1,0 +1,25 @@
+# Params related to model initialization & data preprocessing
+# e.g. directly affecting the (inference) usage & behavior of the model
+model_hparams:
+  model_name: "i2c"
+  model_suffix: "pt_s_i_t_v_ie_mw2_w_5.0_zeroshot_on_text"
+  imu_encoder_name: "mw2"
+  video_encoder_name: "clip_1frame"
+  window_sec: 2.5
+  target_fps: 10
+
+# Params for the trainer
+train_hparams:
+  source_modality: "imu"
+  target_modalities:
+    - "text"
+  limit_train_batches: 1.0
+  batch_size: 16
+  max_epochs: 5
+  gpus: 8
+  num_workers_for_dm: 10
+  test_only: True
+  trainer_strategy: "ddp"
+  freeze_modalities:
+    - "video"
+  path_load_pretrained_imu_encoder: ""

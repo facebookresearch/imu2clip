@@ -1,0 +1,25 @@
+# Params related to model initialization & data preprocessing
+# e.g. directly affecting the (inference) usage & behavior of the model
+model_hparams:
+  model_name: "t2v"
+  model_suffix: "master"
+  imu_encoder_name: "mw2"
+  video_encoder_name: "clip_avg_frames"
+  window_sec: 2.5
+  target_fps: 10
+
+# Params for the trainer
+train_hparams:
+  source_modality: "text"
+  target_modalities:
+    - "video"
+  limit_train_batches: 1.0
+  batch_size: 32
+  max_epochs: 5
+  gpus: 8
+  num_workers_for_dm: 10
+  test_only: True
+  trainer_strategy: "ddp"
+  freeze_modalities:
+    - "video"
+  path_load_pretrained_imu_encoder: ""

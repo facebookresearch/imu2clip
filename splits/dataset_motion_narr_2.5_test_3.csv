@@ -1,0 +1,1257 @@
+window_start,window_end,video_uid,narration_uid,text,Score-TFIDF,label,OG_label
+1769,1774,2ef8d712-0024-4be2-af93-691699953343,6dd4191b-52c8-4891-ac2b-1131c910aa0d,moves his head,1.0,head movement,looks up
+1651,1656,2ef8d712-0024-4be2-af93-691699953343,6dd4191b-52c8-4891-ac2b-1131c910aa0d,moves his head,1.0,head movement,looks up
+1153,1158,b0682378-e167-42e8-a6e2-f865cea9b274,7c7f8dc7-804e-4ed8-a28e-bdeb5c12ccf5,moves his head,1.0,head movement,looks up
+968,973,2ef8d712-0024-4be2-af93-691699953343,fcb5d3c9-3334-4f26-9141-b8377cd202f8,moves his head,1.0,head movement,looks up
+1093,1098,2ef8d712-0024-4be2-af93-691699953343,42bf6737-dc63-453f-aab6-cefb8b534581,moves his head,1.0,head movement,looks up
+668,673,b0682378-e167-42e8-a6e2-f865cea9b274,f86101d6-1dbe-44a0-9886-91d8c79cdb73,moves his head,1.0,head movement,looks up
+1194,1199,2ef8d712-0024-4be2-af93-691699953343,42bf6737-dc63-453f-aab6-cefb8b534581,moves his head,1.0,head movement,looks up
+1226,1231,2ef8d712-0024-4be2-af93-691699953343,42bf6737-dc63-453f-aab6-cefb8b534581,moves his head,1.0,head movement,looks up
+1257,1262,2ef8d712-0024-4be2-af93-691699953343,42bf6737-dc63-453f-aab6-cefb8b534581,moves his head,1.0,head movement,looks up
+315,320,b0682378-e167-42e8-a6e2-f865cea9b274,b5a474f2-6fa3-4a1a-be34-b32a7c82a011,moves his head,1.0,head movement,looks up
+1664,1669,2ef8d712-0024-4be2-af93-691699953343,6dd4191b-52c8-4891-ac2b-1131c910aa0d,moves his head,1.0,head movement,looks up
+898,903,2ef8d712-0024-4be2-af93-691699953343,fcb5d3c9-3334-4f26-9141-b8377cd202f8,moves his head,1.0,head movement,looks up
+501,506,546e4806-a7f5-46bd-bf65-7737db2c5594,1b9043d9-f099-4244-a15b-db9baa249de3,moves his head,1.0,head movement,looks up
+51,56,a69ae4a8-8e1d-47c1-bbd0-de2bb4a33fca,f27ecd96-bbeb-497a-a02a-ba27630c872c,moves his head,1.0,head movement,looks up
+1345,1350,47c9a6a5-b6e4-4d09-8916-da61344e94cf,ed2d941a-05ae-4459-9f46-8465220483a3,moves his head,1.0,head movement,looks up
+582,587,b0682378-e167-42e8-a6e2-f865cea9b274,f86101d6-1dbe-44a0-9886-91d8c79cdb73,moves his head,1.0,head movement,looks up
+431,436,b0682378-e167-42e8-a6e2-f865cea9b274,b5a474f2-6fa3-4a1a-be34-b32a7c82a011,moves his head,1.0,head movement,looks up
+153,158,b0682378-e167-42e8-a6e2-f865cea9b274,819dcfec-859d-4cc6-977f-aeed0bbcab55,moves his head,1.0,head movement,looks up
+298,303,546e4806-a7f5-46bd-bf65-7737db2c5594,1b9043d9-f099-4244-a15b-db9baa249de3,moves his head,1.0,head movement,looks up
+1139,1144,ee5ed7ca-667d-4a31-bdc8-13a9b8008246,81be9e68-b0b5-4e9d-872d-ba3f42dc8134,moves his head,1.0,head movement,looks up
+1049,1054,b0682378-e167-42e8-a6e2-f865cea9b274,8df30d8e-3272-42d3-b68f-334c5d72ae51,moves his head,1.0,head movement,looks up
+707,712,b0682378-e167-42e8-a6e2-f865cea9b274,f86101d6-1dbe-44a0-9886-91d8c79cdb73,moves his head,1.0,head movement,looks up
+928,933,b0682378-e167-42e8-a6e2-f865cea9b274,8df30d8e-3272-42d3-b68f-334c5d72ae51,moves his head,1.0,head movement,looks up
+816,821,2ef8d712-0024-4be2-af93-691699953343,79ef5dfe-1dc8-49d3-ac46-0c764d2c2548,moves his head,1.0,head movement,looks up
+622,627,2ef8d712-0024-4be2-af93-691699953343,79ef5dfe-1dc8-49d3-ac46-0c764d2c2548,moves his head,1.0,head movement,looks up
+649,654,2ef8d712-0024-4be2-af93-691699953343,79ef5dfe-1dc8-49d3-ac46-0c764d2c2548,moves his head,1.0,head movement,looks up
+739,744,be8889c4-114f-4cb2-9e2c-fef576dbb00d,b7e3c2b2-34c7-4ab6-ba50-d9434b550146,moves his head,1.0,head movement,looks up
+724,729,2ef8d712-0024-4be2-af93-691699953343,79ef5dfe-1dc8-49d3-ac46-0c764d2c2548,moves his head,1.0,head movement,looks up
+751,756,2ef8d712-0024-4be2-af93-691699953343,79ef5dfe-1dc8-49d3-ac46-0c764d2c2548,moves his head,1.0,head movement,looks up
+1153,1158,36ee5431-8d3f-4773-b158-2b42932666aa,b968730d-a6c5-4adc-b702-f9a683330423,moves his head,1.0,head movement,looks up
+999,1004,b0682378-e167-42e8-a6e2-f865cea9b274,8df30d8e-3272-42d3-b68f-334c5d72ae51,moves his head,1.0,head movement,looks up
+1394,1399,8e9ce0c8-9a8f-414d-b3c4-cebd0fd1d85b,088013b2-dd0c-46bc-b531-ac6a8f5d617b,moves head,0.9155889989790481,head movement,looks up
+1694,1699,9d27c41b-d4d2-47a6-8334-1f930121e956,58a05d09-dfa5-45cd-a969-3162afd1ba58,moves head,0.9155889989790481,head movement,looks up
+1405,1410,8e9ce0c8-9a8f-414d-b3c4-cebd0fd1d85b,088013b2-dd0c-46bc-b531-ac6a8f5d617b,moves head,0.9155889989790481,head movement,looks up
+1437,1442,8e9ce0c8-9a8f-414d-b3c4-cebd0fd1d85b,088013b2-dd0c-46bc-b531-ac6a8f5d617b,moves head,0.9155889989790481,head movement,looks up
+278,283,bff1d1da-957f-42ea-8c98-61eaca98b5f1,483545a8-e81d-49cf-9984-b7177f431069,moves the head,0.9027874346541118,head movement,looks up
+3410,3415,52d7e473-06a6-4464-81f4-08199bf5cb6a,512f59f6-6a54-410c-a284-2e1e396c9c85,c c moves his head down,0.8847942078645121,head movement,looks up
+450,455,fbaa9e09-62c9-460a-b44b-d1db9e5f4039,9df986f6-85d2-4518-ab5a-5a6510a80d4d,moves her head,0.8081806520058019,head movement,looks up
+321,326,fbaa9e09-62c9-460a-b44b-d1db9e5f4039,9df986f6-85d2-4518-ab5a-5a6510a80d4d,moves her head,0.8081806520058019,head movement,looks up
+72,77,fbaa9e09-62c9-460a-b44b-d1db9e5f4039,b2c75626-7a04-459b-b513-79287717751a,moves her head,0.8081806520058019,head movement,looks up
+1385,1390,e6b7692d-5e35-4524-8d2a-385475b95806,14162e1a-9d8f-4af2-be97-ca05f7c3eb64,looks up,1.0,head movement,looks up
+1810,1815,2f77c6e3-3751-44ea-887f-2c8caf9c6485,821e190d-bee0-40f3-ba82-9b5e3972cf3c,c c looks up,1.0,head movement,looks up
+1719,1724,2f77c6e3-3751-44ea-887f-2c8caf9c6485,821e190d-bee0-40f3-ba82-9b5e3972cf3c,c c looks up,1.0,head movement,looks up
+1423,1428,3ab744ba-9969-452c-a825-38affebd4139,40d17f34-a121-4a69-b13e-0f26c4742c0c,looks up,1.0,head movement,looks up
+1749,1754,2f77c6e3-3751-44ea-887f-2c8caf9c6485,821e190d-bee0-40f3-ba82-9b5e3972cf3c,c c looks up,1.0,head movement,looks up
+1961,1966,2f77c6e3-3751-44ea-887f-2c8caf9c6485,f18d886a-fac5-43b9-bd81-c576b9dc342b,looks up,1.0,head movement,looks up
+1955,1960,2f77c6e3-3751-44ea-887f-2c8caf9c6485,f18d886a-fac5-43b9-bd81-c576b9dc342b,looks up,1.0,head movement,looks up
+1951,1956,2f77c6e3-3751-44ea-887f-2c8caf9c6485,f18d886a-fac5-43b9-bd81-c576b9dc342b,looks up,1.0,head movement,looks up
+1949,1954,2f77c6e3-3751-44ea-887f-2c8caf9c6485,f18d886a-fac5-43b9-bd81-c576b9dc342b,looks up,1.0,head movement,looks up
+434,439,546e4806-a7f5-46bd-bf65-7737db2c5594,1b9043d9-f099-4244-a15b-db9baa249de3,looks up,1.0,head movement,looks up
+1785,1790,2f77c6e3-3751-44ea-887f-2c8caf9c6485,821e190d-bee0-40f3-ba82-9b5e3972cf3c,c c looks up,1.0,head movement,looks up
+2451,2456,2f77c6e3-3751-44ea-887f-2c8caf9c6485,3a5a8437-cd44-457a-9b09-a05090b52f8a,looks up,1.0,head movement,looks up
+600,605,c21b6b02-886f-4218-8595-f13c2d039e0b,c55f720b-8b29-4465-ac73-e88ab65bb54a,looks up,1.0,head movement,looks up
+1130,1135,053ae0a6-937d-4bdc-8001-d3dfe7899811,00271821-7e5c-4e91-8a1e-0a6a62dbf590,looks up,1.0,head movement,looks up
+1713,1718,2f77c6e3-3751-44ea-887f-2c8caf9c6485,821e190d-bee0-40f3-ba82-9b5e3972cf3c,c c looks up,1.0,head movement,looks up
+2174,2179,2f77c6e3-3751-44ea-887f-2c8caf9c6485,9c1d7f1c-4206-4da1-b782-27b1bd93cfa5,looks up,1.0,head movement,looks up
+2168,2173,2f77c6e3-3751-44ea-887f-2c8caf9c6485,f18d886a-fac5-43b9-bd81-c576b9dc342b,looks up,1.0,head movement,looks up
+1107,1112,053ae0a6-937d-4bdc-8001-d3dfe7899811,00271821-7e5c-4e91-8a1e-0a6a62dbf590,looks up,1.0,head movement,looks up
+1000,1005,053ae0a6-937d-4bdc-8001-d3dfe7899811,9cb3567e-7d23-4edb-919f-250e1284e789,looks up,1.0,head movement,looks up
+2537,2542,9632b0a9-cf21-4773-b95b-83aae9a23d0a,f895dc1b-c5cf-4041-8ac0-4d8962936a6c,looks up,1.0,head movement,looks up
+3941,3946,cf7c12db-1a9e-46d3-96d6-38174bbe373c,8626100e-4664-4526-bd7b-87fa8fed690e,looks up,1.0,head movement,looks up
+1042,1047,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1732,1737,4884c61e-a61b-4ba6-8071-4314c6c217b6,26d68ddb-8f29-4aae-a52e-4a6dc040275b,looks down,0.3935834355947176,head movement,looks down
+1429,1434,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+1431,1436,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+1485,1490,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+1497,1502,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+321,326,445fc552-20bf-49fe-adad-a5c5882f5c73,2512bc58-c481-421a-8a13-3a11666970c0,looks down,0.3935834355947176,head movement,looks down
+0,5,e6351387-e982-4646-b719-d869b1ab61f0,762aa7ac-d830-42a5-b2ee-3c2b5d17bd9e,looks down,0.3935834355947176,head movement,looks down
+330,335,445fc552-20bf-49fe-adad-a5c5882f5c73,2512bc58-c481-421a-8a13-3a11666970c0,looks down,0.3935834355947176,head movement,looks down
+984,989,f71187bc-cead-407d-ad14-62812993b6a3,aadf94ab-37bb-47d2-9e04-459186f94baf,looks down,0.3935834355947176,head movement,looks down
+353,358,445fc552-20bf-49fe-adad-a5c5882f5c73,2512bc58-c481-421a-8a13-3a11666970c0,looks down,0.3935834355947176,head movement,looks down
+967,972,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+455,460,719bf9c4-a216-4166-963b-80ece9f87a48,fdebab44-20d5-4096-b194-1354ffaff5c6,looks down,0.3935834355947176,head movement,looks down
+950,955,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+958,963,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+491,496,445fc552-20bf-49fe-adad-a5c5882f5c73,2512bc58-c481-421a-8a13-3a11666970c0,looks down,0.3935834355947176,head movement,looks down
+964,969,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+697,702,445fc552-20bf-49fe-adad-a5c5882f5c73,79cab07b-2e6b-4160-b67a-7b18cd473403,looks down,0.3935834355947176,head movement,looks down
+736,741,445fc552-20bf-49fe-adad-a5c5882f5c73,79cab07b-2e6b-4160-b67a-7b18cd473403,looks down,0.3935834355947176,head movement,looks down
+1654,1659,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1382,1387,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+1435,1440,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+1450,1455,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+164,169,a47718d6-30dc-4afa-8088-a62e1e81d3e6,ba4d1e46-67ec-46cb-b011-8a3ed1ba5466,looks down,0.3935834355947176,head movement,looks down
+1598,1603,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+1578,1583,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+1317,1322,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1567,1572,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+2312,2317,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,09a78173-2bbf-4c2b-a525-f6e47ba28261,looks down,0.3935834355947176,head movement,looks down
+483,488,692e9866-1d35-4898-b708-1982d86f4dfb,bf954cf8-8ddc-4540-889d-fae489c61094,looks down,0.3935834355947176,head movement,looks down
+2274,2279,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,09a78173-2bbf-4c2b-a525-f6e47ba28261,looks down,0.3935834355947176,head movement,looks down
+2240,2245,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,09a78173-2bbf-4c2b-a525-f6e47ba28261,looks down,0.3935834355947176,head movement,looks down
+1354,1359,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+0,5,1a567360-aaef-4823-a4b0-f2007b3225ff,285fa85a-ddae-45ca-be69-36c8e5596fe6,c c looks down,0.3935834355947176,head movement,looks down
+350,355,692e9866-1d35-4898-b708-1982d86f4dfb,bf954cf8-8ddc-4540-889d-fae489c61094,looks down,0.3935834355947176,head movement,looks down
+1475,1480,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+2227,2232,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,09a78173-2bbf-4c2b-a525-f6e47ba28261,looks down,0.3935834355947176,head movement,looks down
+1359,1364,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1363,1368,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+198,203,692e9866-1d35-4898-b708-1982d86f4dfb,df26db50-5e4a-4a71-ab53-c43fd69ec1fe,looks down,0.3935834355947176,head movement,looks down
+1366,1371,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks down,0.3935834355947176,head movement,looks down
+1630,1635,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+1779,1784,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1807,1812,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1033,1038,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+4,9,f0b4024f-e7c5-482c-849b-7671fedea8bf,edafefa1-9fea-4aec-aeb0-1a5323e80590,looks down,0.3935834355947176,head movement,looks down
+1103,1108,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks  down,0.3935834355947176,head movement,looks down
+1029,1034,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1381,1386,e6b7692d-5e35-4524-8d2a-385475b95806,14162e1a-9d8f-4af2-be97-ca05f7c3eb64,looks down,0.3935834355947176,head movement,looks down
+198,203,0b22b43c-f57e-4f4f-8840-3ca0bf086b9c,8b833fbb-5949-49b3-b1a1-ef0de1666594,looks down,0.3935834355947176,head movement,looks down
+1030,1035,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+3437,3442,52d7e473-06a6-4464-81f4-08199bf5cb6a,512f59f6-6a54-410c-a284-2e1e396c9c85,c c looks down,0.3935834355947176,head movement,looks down
+1031,1036,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+0,5,aa57f76c-7a21-4bc3-a1b0-509eb727943b,777e8eda-8f87-4923-a921-a952a7679950,looks down,0.3935834355947176,head movement,looks down
+1812,1817,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1036,1041,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1037,1042,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1038,1043,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1101,1106,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1100,1105,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1099,1104,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1041,1046,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1097,1102,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1376,1381,e6b7692d-5e35-4524-8d2a-385475b95806,14162e1a-9d8f-4af2-be97-ca05f7c3eb64,looks down,0.3935834355947176,head movement,looks down
+1609,1614,5970d966-cbd4-4fc0-8590-bffc9935bf10,854aa2df-1ce2-4601-ae4d-46eb2b9d66bd,looks down,0.3935834355947176,head movement,looks down
+1110,1115,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+972,977,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1111,1116,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+973,978,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+975,980,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+970,975,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1819,1824,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1104,1109,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+977,982,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1108,1113,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1064,1069,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,1c9d4d49-bb55-4bd9-b1de-fc76ec5e41d3,looks down,0.3935834355947176,head movement,looks down
+982,987,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1823,1828,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1106,1111,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1105,1110,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,looks down,0.3935834355947176,head movement,looks down
+1827,1832,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+969,974,4ed53432-e1f5-4e3f-a614-ffcaff444aca,20fba9b5-1de1-4233-87df-a4cdc1680db1,looks down,0.3935834355947176,head movement,looks down
+1814,1819,445fc552-20bf-49fe-adad-a5c5882f5c73,c002e327-e04f-4ea3-a6c3-525e0084d853,looks down,0.3935834355947176,head movement,looks down
+1419,1424,4ed53432-e1f5-4e3f-a614-ffcaff444aca,3fe5bd98-805e-444f-a0b6-f668d517ae3a,looks on the down,0.3559616254127695,head movement,looks down
+2269,2274,937e5809-09d0-4c6b-8d9e-9329e0cf6218,5093e12a-0672-4e2a-95c3-920c12d35786,looks around,1.0000000000000002,head movement,looks around
+3432,3437,b0429a48-6f89-4544-8128-a24fd63d3149,46d20349-1c26-444c-baa0-f19921a41e9f,looks around,1.0000000000000002,head movement,looks around
+2968,2973,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+971,976,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+2973,2978,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+2974,2979,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+583,588,f00332a6-d29f-4bf5-89a2-0284965b3f23,f1e2788a-776a-4e8f-a447-af7615f7abb6,looks around,1.0000000000000002,head movement,looks around
+960,965,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+2112,2117,2f77c6e3-3751-44ea-887f-2c8caf9c6485,0fa476fa-f4c6-442b-9160-70594b5e6410,c  c looks around,1.0000000000000002,head movement,looks around
+590,595,f00332a6-d29f-4bf5-89a2-0284965b3f23,f1e2788a-776a-4e8f-a447-af7615f7abb6,looks around,1.0000000000000002,head movement,looks around
+28,33,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,49d8bf7f-89cd-4b68-90b3-9b8fe148fe9d,looks around,1.0000000000000002,head movement,looks around
+151,156,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+3297,3302,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,d5a6c564-0307-4a16-99fe-83c13d9fa46d,looks around,1.0000000000000002,head movement,looks around
+3305,3310,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,d5a6c564-0307-4a16-99fe-83c13d9fa46d,looks around,1.0000000000000002,head movement,looks around
+4,9,d1efe7af-5ab6-4867-8fbb-566c655ab1d8,93a0d0bc-f6e0-48fc-bc62-bc409aa0896c,looks around,1.0000000000000002,head movement,looks around
+3341,3346,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,d5a6c564-0307-4a16-99fe-83c13d9fa46d,looks around,1.0000000000000002,head movement,looks around
+463,468,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,looks around,1.0000000000000002,head movement,looks around
+918,923,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+219,224,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,49d8bf7f-89cd-4b68-90b3-9b8fe148fe9d,looks around,1.0000000000000002,head movement,looks around
+222,227,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,49d8bf7f-89cd-4b68-90b3-9b8fe148fe9d,looks around,1.0000000000000002,head movement,looks around
+173,178,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,f38a3fb9-226b-430d-af66-ed4b1656221f,looks around,1.0000000000000002,head movement,looks around
+3479,3484,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,d5a6c564-0307-4a16-99fe-83c13d9fa46d,looks around,1.0000000000000002,head movement,looks around
+2073,2078,2f77c6e3-3751-44ea-887f-2c8caf9c6485,0fa476fa-f4c6-442b-9160-70594b5e6410,c c looks around,1.0000000000000002,head movement,looks around
+1578,1583,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,f83044ac-918a-49cf-9f87-d7d4f9d05213,looks around,1.0000000000000002,head movement,looks around
+293,298,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+1568,1573,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,f83044ac-918a-49cf-9f87-d7d4f9d05213,looks around,1.0000000000000002,head movement,looks around
+299,304,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+304,309,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+308,313,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+414,419,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,looks around,1.0000000000000002,head movement,looks around
+410,415,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,looks around,1.0000000000000002,head movement,looks around
+2961,2966,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+385,390,3ab744ba-9969-452c-a825-38affebd4139,6258fc3b-e26c-4848-a1d5-ce8f1d4f83e3,looks around,1.0000000000000002,head movement,looks around
+582,587,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+2766,2771,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+923,928,a869ed3c-901d-4328-99f0-9b446822a412,acea6d38-505e-4371-b8d2-5e88b6530d35,looks around,1.0000000000000002,head movement,looks around
+2190,2195,2a73ab3f-d193-4052-8d37-6aacc5f2b516,32b62371-8848-44b2-bf1f-c3657ac5cd71,looks around,1.0000000000000002,head movement,looks around
+560,565,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+2205,2210,2a73ab3f-d193-4052-8d37-6aacc5f2b516,32b62371-8848-44b2-bf1f-c3657ac5cd71,looks around,1.0000000000000002,head movement,looks around
+432,437,3ab744ba-9969-452c-a825-38affebd4139,6258fc3b-e26c-4848-a1d5-ce8f1d4f83e3,looks around,1.0000000000000002,head movement,looks around
+2168,2173,2f77c6e3-3751-44ea-887f-2c8caf9c6485,0fa476fa-f4c6-442b-9160-70594b5e6410,c c looks around,1.0000000000000002,head movement,looks around
+2773,2778,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+354,359,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,looks around,1.0000000000000002,head movement,looks around
+2777,2782,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+2810,2815,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+2840,2845,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+401,406,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,looks around,1.0000000000000002,head movement,looks around
+2840,2845,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+991,996,a869ed3c-901d-4328-99f0-9b446822a412,acea6d38-505e-4371-b8d2-5e88b6530d35,looks around,1.0000000000000002,head movement,looks around
+2883,2888,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+8,13,1a89d7f1-fb77-4aef-a97a-d3d54756a9df,1794101e-9760-41e9-b5a7-8c9d4ed82658,looks around,1.0000000000000002,head movement,looks around
+1069,1074,a869ed3c-901d-4328-99f0-9b446822a412,acea6d38-505e-4371-b8d2-5e88b6530d35,looks around,1.0000000000000002,head movement,looks around
+1484,1489,2fa81cfe-e0d4-42e5-be39-e14287215bd2,ea50b822-7c85-4f41-ad42-f3d26ee49a0b,looks around,1.0000000000000002,head movement,looks around
+1001,1006,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+1477,1482,2fa81cfe-e0d4-42e5-be39-e14287215bd2,ea50b822-7c85-4f41-ad42-f3d26ee49a0b,looks around,1.0000000000000002,head movement,looks around
+1474,1479,2fa81cfe-e0d4-42e5-be39-e14287215bd2,ea50b822-7c85-4f41-ad42-f3d26ee49a0b,looks around,1.0000000000000002,head movement,looks around
+1470,1475,2fa81cfe-e0d4-42e5-be39-e14287215bd2,ea50b822-7c85-4f41-ad42-f3d26ee49a0b,looks around,1.0000000000000002,head movement,looks around
+2947,2952,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+2955,2960,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+310,315,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+178,183,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+330,335,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+302,307,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+589,594,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+269,274,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,f38a3fb9-226b-430d-af66-ed4b1656221f,looks around,1.0000000000000002,head movement,looks around
+723,728,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,946d1da7-1043-4ced-b10f-5d3f370626d5,looks around,1.0000000000000002,head movement,looks around
+271,276,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,f38a3fb9-226b-430d-af66-ed4b1656221f,looks around,1.0000000000000002,head movement,looks around
+603,608,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+253,258,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,659ebfe9-eb13-43c8-82e4-8cdaf7460be3,looks around,1.0000000000000002,head movement,looks around
+233,238,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+662,667,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,946d1da7-1043-4ced-b10f-5d3f370626d5,c looks around,1.0000000000000002,head movement,looks around
+657,662,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,946d1da7-1043-4ced-b10f-5d3f370626d5,c looks around,1.0000000000000002,head movement,looks around
+652,657,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,946d1da7-1043-4ced-b10f-5d3f370626d5,looks around,1.0000000000000002,head movement,looks around
+248,253,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+21,26,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6286b9b8-7762-454c-9298-7fe53e1953e6,looks around,1.0000000000000002,head movement,looks around
+209,214,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,659ebfe9-eb13-43c8-82e4-8cdaf7460be3,looks around,1.0000000000000002,head movement,looks around
+251,256,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6286b9b8-7762-454c-9298-7fe53e1953e6,looks around,1.0000000000000002,head movement,looks around
+1950,1955,2f77c6e3-3751-44ea-887f-2c8caf9c6485,0fa476fa-f4c6-442b-9160-70594b5e6410,c c looks around,1.0000000000000002,head movement,looks around
+309,314,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+493,498,18c05110-1ef1-4da2-8b59-c80bf0cc9751,102cbe45-999e-43d9-ad07-9f23a39ff399,looks around,1.0000000000000002,head movement,looks around
+319,324,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+2941,2946,3b021bad-6945-4be2-a7db-44af3db1eae8,0c5d663f-2013-4330-a62a-edaddb8e0fed,looks around,1.0000000000000002,head movement,looks around
+2396,2401,6099730e-7a7c-41ce-8266-83a9f00cacec,a81be10c-da95-44f7-a8e3-663e63962d2e,looks around,1.0000000000000002,head movement,looks around
+330,335,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+653,658,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+598,603,6099730e-7a7c-41ce-8266-83a9f00cacec,92f0df8c-d372-441c-8a15-dfa8a9f51901,looks around,1.0000000000000002,head movement,looks around
+328,333,18c05110-1ef1-4da2-8b59-c80bf0cc9751,102cbe45-999e-43d9-ad07-9f23a39ff399,looks around,1.0000000000000002,head movement,looks around
+660,665,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+337,342,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+2351,2356,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,75e1856d-4c5a-49a7-8bd5-e652e145d366,looks around,1.0000000000000002,head movement,looks around
+323,328,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+447,452,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,b5edeedc-3965-447e-b56e-25cf2cb34744,looks around,1.0000000000000002,head movement,looks around
+50,55,c0954f28-0d5d-4f41-a06c-f9f1fe7fce80,60554b0c-eb2e-4541-b200-122278989e3e,looks around,1.0000000000000002,head movement,looks around
+454,459,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,b5edeedc-3965-447e-b56e-25cf2cb34744,looks around,1.0000000000000002,head movement,looks around
+510,515,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,b5edeedc-3965-447e-b56e-25cf2cb34744,looks around,1.0000000000000002,head movement,looks around
+537,542,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,b5edeedc-3965-447e-b56e-25cf2cb34744,looks around,1.0000000000000002,head movement,looks around
+383,388,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+397,402,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+411,416,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+466,471,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,c5d30251-8405-48ca-8493-3fb2c845def2,looks around,1.0000000000000002,head movement,looks around
+580,585,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+1170,1175,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,395fd540-e727-49b3-99d4-02a83051ac67,looks around,1.0000000000000002,head movement,looks around
+1113,1118,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,395fd540-e727-49b3-99d4-02a83051ac67,looks around,1.0000000000000002,head movement,looks around
+1099,1104,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,395fd540-e727-49b3-99d4-02a83051ac67,looks around,1.0000000000000002,head movement,looks around
+224,229,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,f38a3fb9-226b-430d-af66-ed4b1656221f,looks around,1.0000000000000002,head movement,looks around
+466,471,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+337,342,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+763,768,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+769,774,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+778,783,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+784,789,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+789,794,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+809,814,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,a21cff93-acc4-4a69-9aed-437a5e53e5fb,looks around,1.0000000000000002,head movement,looks around
+407,412,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+856,861,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+204,209,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+391,396,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+347,352,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+341,346,18c05110-1ef1-4da2-8b59-c80bf0cc9751,02b8211e-8b4d-435f-ac6d-a0c16bbcf12a,looks around,1.0000000000000002,head movement,looks around
+595,600,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+2761,2766,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+602,607,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+1538,1543,3ab744ba-9969-452c-a825-38affebd4139,40d17f34-a121-4a69-b13e-0f26c4742c0c,looks around,1.0000000000000002,head movement,looks around
+2106,2111,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+2155,2160,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,aafdccee-0acf-4e00-925d-b26812cb07e7,looks around,1.0000000000000002,head movement,looks around
+1295,1300,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,looks around,1.0000000000000002,head movement,looks around
+2098,2103,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+1581,1586,3ab744ba-9969-452c-a825-38affebd4139,40d17f34-a121-4a69-b13e-0f26c4742c0c,looks around,1.0000000000000002,head movement,looks around
+1274,1279,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,looks around,1.0000000000000002,head movement,looks around
+743,748,3dedfa92-4e30-47ed-9611-aa4f79a32a13,63f79e7b-cc31-436e-9f99-bd91838bc91b,looks around,1.0000000000000002,head movement,looks around
+969,974,5803675e-3c89-4bbb-8d2a-c79b8d561597,b31de7fa-25e0-48ed-933a-1de597bc0d84,looks around,1.0000000000000002,head movement,looks around
+327,332,b2ebded2-4c94-473d-b9e4-8dd3556a3152,b508c76e-8722-476e-bcc3-bc8f23155393,looks around,1.0000000000000002,head movement,looks around
+87,92,e5b53804-474d-4368-bc7e-8ce65e6eb229,293e32a8-28ef-4cb7-9a94-64ecc116240e,looks around,1.0000000000000002,head movement,looks around
+1045,1050,5803675e-3c89-4bbb-8d2a-c79b8d561597,b31de7fa-25e0-48ed-933a-1de597bc0d84,looks around,1.0000000000000002,head movement,looks around
+20,25,b2ebded2-4c94-473d-b9e4-8dd3556a3152,f07a5923-7204-4532-b0b6-da69636cb0e1,looks around,1.0000000000000002,head movement,looks around
+135,140,1321d3aa-dc41-4bee-94a7-559536885b88,162df2c4-4f4c-4b05-a147-df2bd0c3e739,looks  around,1.0000000000000002,head movement,looks around
+830,835,5803675e-3c89-4bbb-8d2a-c79b8d561597,b31de7fa-25e0-48ed-933a-1de597bc0d84,looks around,1.0000000000000002,head movement,looks around
+1247,1252,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,looks around,1.0000000000000002,head movement,looks around
+1192,1197,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,looks around,1.0000000000000002,head movement,looks around
+510,515,3dedfa92-4e30-47ed-9611-aa4f79a32a13,4a12ff8f-c216-4293-a078-39db2c92382a,looks around,1.0000000000000002,head movement,looks around
+500,505,3dedfa92-4e30-47ed-9611-aa4f79a32a13,4a12ff8f-c216-4293-a078-39db2c92382a,looks around,1.0000000000000002,head movement,looks around
+1505,1510,3ab744ba-9969-452c-a825-38affebd4139,40d17f34-a121-4a69-b13e-0f26c4742c0c,looks around,1.0000000000000002,head movement,looks around
+1150,1155,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,looks around,1.0000000000000002,head movement,looks around
+183,188,1321d3aa-dc41-4bee-94a7-559536885b88,162df2c4-4f4c-4b05-a147-df2bd0c3e739,looks around,1.0000000000000002,head movement,looks around
+1140,1145,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,looks around,1.0000000000000002,head movement,looks around
+2081,2086,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+2066,2071,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+2053,2058,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+1419,1424,3ab744ba-9969-452c-a825-38affebd4139,40d17f34-a121-4a69-b13e-0f26c4742c0c,looks around,1.0000000000000002,head movement,looks around
+874,879,5803675e-3c89-4bbb-8d2a-c79b8d561597,b31de7fa-25e0-48ed-933a-1de597bc0d84,looks around,1.0000000000000002,head movement,looks around
+812,817,5803675e-3c89-4bbb-8d2a-c79b8d561597,4d41b376-93a5-4bfa-90c9-f2dc18061d9c,looks around,1.0000000000000002,head movement,looks around
+573,578,5970d966-cbd4-4fc0-8590-bffc9935bf10,459f07b6-c757-4714-9d53-2e0135be1f1c,looks around,1.0000000000000002,head movement,looks around
+2462,2467,2f77c6e3-3751-44ea-887f-2c8caf9c6485,ee3572f1-c5eb-44fb-bb03-5987e98f67ca,c c looks around,1.0000000000000002,head movement,looks around
+978,983,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+976,981,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+958,963,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+1589,1594,d94854b6-3469-4c9c-8d2b-aa9019010a11,09b3f304-8790-41fd-8ab6-2fb6463d5096,looks around,1.0000000000000002,head movement,looks around
+1616,1621,d94854b6-3469-4c9c-8d2b-aa9019010a11,09b3f304-8790-41fd-8ab6-2fb6463d5096,looks around,1.0000000000000002,head movement,looks around
+951,956,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+2204,2209,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c4aa22cf-cc0e-4a3f-9a31-7808cc095bc5,looks around,1.0000000000000002,head movement,looks around
+894,899,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+865,870,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+857,862,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+837,842,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+822,827,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+221,226,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,bdf8bbf5-b51e-4d1a-bb40-75b33f3cf9b8,looks around,1.0000000000000002,head movement,looks around
+2004,2009,d94854b6-3469-4c9c-8d2b-aa9019010a11,4cc6317d-7995-4998-ae97-0abfd6d15c44,looks around,1.0000000000000002,head movement,looks around
+187,192,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,bdf8bbf5-b51e-4d1a-bb40-75b33f3cf9b8,looks around,1.0000000000000002,head movement,looks around
+1721,1726,d94854b6-3469-4c9c-8d2b-aa9019010a11,5f14318b-af9d-4758-bf68-d02afe7ec7d6,looks around,1.0000000000000002,head movement,looks around
+2152,2157,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+1842,1847,d94854b6-3469-4c9c-8d2b-aa9019010a11,5f14318b-af9d-4758-bf68-d02afe7ec7d6,looks around,1.0000000000000002,head movement,looks around
+2144,2149,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+230,235,2a73ab3f-d193-4052-8d37-6aacc5f2b516,f23baf14-6983-43ea-8358-38ed5266a7b8,looks around,1.0000000000000002,head movement,looks around
+2136,2141,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+1256,1261,b0f8ab26-96ea-4c96-8371-922fe32a9115,69764c6c-6738-4355-932c-1b612d43176c,looks around,1.0000000000000002,head movement,looks around
+1978,1983,d94854b6-3469-4c9c-8d2b-aa9019010a11,4cc6317d-7995-4998-ae97-0abfd6d15c44,looks around,1.0000000000000002,head movement,looks around
+37,42,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,bdf8bbf5-b51e-4d1a-bb40-75b33f3cf9b8,looks around,1.0000000000000002,head movement,looks around
+6,11,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,bdf8bbf5-b51e-4d1a-bb40-75b33f3cf9b8,looks around,1.0000000000000002,head movement,looks around
+2388,2393,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,232149d5-5885-4e82-b3ef-1edba3456f86,looks around,1.0000000000000002,head movement,looks around
+2052,2057,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+971,976,1a89d7f1-fb77-4aef-a97a-d3d54756a9df,c56a757c-ed74-480e-b21c-b0657ca6ef7a,looks around,1.0000000000000002,head movement,looks around
+2730,2735,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+1069,1074,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+765,770,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+753,758,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+744,749,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+1086,1091,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+730,735,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+113,118,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+725,730,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+721,726,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+1076,1081,0928af96-a3fd-4930-9bc1-2fa43d01bb53,4ef0592b-31e4-4640-a909-14a9ff3dc3d1,looks around,1.0000000000000002,head movement,looks around
+717,722,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+695,700,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+883,888,a869ed3c-901d-4328-99f0-9b446822a412,acea6d38-505e-4371-b8d2-5e88b6530d35,looks around,1.0000000000000002,head movement,looks around
+680,685,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+776,781,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+420,425,1a89d7f1-fb77-4aef-a97a-d3d54756a9df,5b82eb56-4e6f-4ab8-b4df-5f6229e22570,looks around,1.0000000000000002,head movement,looks around
+317,322,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,looks around,1.0000000000000002,head movement,looks around
+676,681,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+0,5,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,f38a3fb9-226b-430d-af66-ed4b1656221f,looks around,1.0000000000000002,head movement,looks around
+3,8,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,f38a3fb9-226b-430d-af66-ed4b1656221f,c looks around,1.0000000000000002,head movement,looks around
+2716,2721,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+2723,2728,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+118,123,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+646,651,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+2727,2732,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+633,638,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+2728,2733,869aa0d2-9557-4f3e-8bc9-c46ca5e2c8ff,ec684f4d-b613-4a4a-8097-858d773d28f0,looks around,1.0000000000000002,head movement,looks around
+97,102,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+795,800,3ab744ba-9969-452c-a825-38affebd4139,545778e1-f303-4740-8bbb-78f9fd025611,looks around,1.0000000000000002,head movement,looks around
+586,591,5970d966-cbd4-4fc0-8590-bffc9935bf10,459f07b6-c757-4714-9d53-2e0135be1f1c,looks around,1.0000000000000002,head movement,looks around
+1209,1214,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+438,443,3dedfa92-4e30-47ed-9611-aa4f79a32a13,4a12ff8f-c216-4293-a078-39db2c92382a,looks around,1.0000000000000002,head movement,looks around
+1348,1353,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1336,1341,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+913,918,1a89d7f1-fb77-4aef-a97a-d3d54756a9df,c56a757c-ed74-480e-b21c-b0657ca6ef7a,looks around,1.0000000000000002,head movement,looks around
+49,54,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+1326,1331,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1302,1307,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1296,1301,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1279,1284,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1242,1247,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1225,1230,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1214,1219,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1188,1193,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+85,90,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+1168,1173,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1152,1157,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1143,1148,3ab744ba-9969-452c-a825-38affebd4139,d5b8ed80-e2a7-4ba3-a363-0c63652c941d,looks around,1.0000000000000002,head movement,looks around
+1922,1927,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+1914,1919,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c1b98f3f-91fc-400e-a902-1cda9adf2055,looks around,1.0000000000000002,head movement,looks around
+1898,1903,2fa81cfe-e0d4-42e5-be39-e14287215bd2,2cea3394-392a-4542-8ddd-aef5790281ea,looks around,1.0000000000000002,head movement,looks around
+1885,1890,2fa81cfe-e0d4-42e5-be39-e14287215bd2,2cea3394-392a-4542-8ddd-aef5790281ea,looks around,1.0000000000000002,head movement,looks around
+1880,1885,2fa81cfe-e0d4-42e5-be39-e14287215bd2,2cea3394-392a-4542-8ddd-aef5790281ea,looks around,1.0000000000000002,head movement,looks around
+1832,1837,2fa81cfe-e0d4-42e5-be39-e14287215bd2,2cea3394-392a-4542-8ddd-aef5790281ea,looks around,1.0000000000000002,head movement,looks around
+78,83,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+31,36,25eca07b-a5e2-433e-b7c0-24b5d8e153de,e623ebc8-d396-4cdd-b232-0c163816c62f,looks around,1.0000000000000002,head movement,looks around
+23,28,25eca07b-a5e2-433e-b7c0-24b5d8e153de,e623ebc8-d396-4cdd-b232-0c163816c62f,looks around,1.0000000000000002,head movement,looks around
+831,836,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+663,668,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+675,680,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+29,34,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,a9f28086-bb15-449b-a9e5-18784cdc054d,looks around,1.0000000000000002,head movement,looks around
+99,104,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,8d33afc1-2d56-4220-90db-919ad36bfa95,looks around,1.0000000000000002,head movement,looks around
+75,80,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,8d33afc1-2d56-4220-90db-919ad36bfa95,looks around,1.0000000000000002,head movement,looks around
+44,49,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,8d33afc1-2d56-4220-90db-919ad36bfa95,looks around,1.0000000000000002,head movement,looks around
+351,356,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,43978523-5258-41eb-97e5-e048b82971ef,looks around,1.0000000000000002,head movement,looks around
+1381,1386,47c9a6a5-b6e4-4d09-8916-da61344e94cf,2847d95d-9153-43f8-9944-b3bc19a0a866,looks around,1.0000000000000002,head movement,looks around
+297,302,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,43978523-5258-41eb-97e5-e048b82971ef,looks around,1.0000000000000002,head movement,looks around
+3097,3102,c645ddf0-1efc-4c0a-bf58-889ea519b254,5eb7a391-88df-4598-bafa-cff21c861256,looks around,1.0000000000000002,head movement,looks around
+281,286,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,a9f28086-bb15-449b-a9e5-18784cdc054d,looks around,1.0000000000000002,head movement,looks around
+1586,1591,47c9a6a5-b6e4-4d09-8916-da61344e94cf,2847d95d-9153-43f8-9944-b3bc19a0a866,looks around,1.0000000000000002,head movement,looks around
+103,108,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,a9f28086-bb15-449b-a9e5-18784cdc054d,looks around,1.0000000000000002,head movement,looks around
+3900,3905,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,054426c6-0dda-4f32-b8de-4cce8e37299a,looks around,1.0000000000000002,head movement,looks around
+52,57,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,a9f28086-bb15-449b-a9e5-18784cdc054d,looks around,1.0000000000000002,head movement,looks around
+11,16,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,a9f28086-bb15-449b-a9e5-18784cdc054d,looks around,1.0000000000000002,head movement,looks around
+282,287,3a9a814d-222f-4712-97b4-a71d9f8b5a4a,b419a064-4c78-40f4-9fc9-4b53dc896ced,looks around,1.0000000000000002,head movement,looks around
+787,792,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,361a01f0-8cd5-44b3-8132-1f2e5153c73f,looks around,1.0000000000000002,head movement,looks around
+3053,3058,c645ddf0-1efc-4c0a-bf58-889ea519b254,5eb7a391-88df-4598-bafa-cff21c861256,looks around,1.0000000000000002,head movement,looks around
+709,714,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+702,707,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+3203,3208,9d209484-b083-4731-b5dc-d3af3df09292,50c97c2a-7c21-490b-be91-49bc0e07d741,looks around,1.0000000000000002,head movement,looks around
+666,671,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+657,662,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+830,835,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,13007465-f24c-4ae8-ba25-9976544d1529,looks around,1.0000000000000002,head movement,looks around
+651,656,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+832,837,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,13007465-f24c-4ae8-ba25-9976544d1529,looks around,1.0000000000000002,head movement,looks around
+624,629,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+600,605,078b33d5-2f4c-40a1-b710-cdd368a19ff0,735486e0-70b1-47ea-b9d6-a1d98fe3a8bb,looks around,1.0000000000000002,head movement,looks around
+4164,4169,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,5fa71612-2cee-496b-bf11-9c377afad838,looks around,1.0000000000000002,head movement,looks around
+778,783,47c9a6a5-b6e4-4d09-8916-da61344e94cf,c285875e-7bf7-45ff-8b9b-77428d304a47,looks around,1.0000000000000002,head movement,looks around
+227,232,cbe34c13-e91f-4d2f-a902-c011503b6a8f,d5cb4cb2-a317-49b6-ab95-2f6311e54bc4,looks around,1.0000000000000002,head movement,looks around
+892,897,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+58,63,d55c3204-8dfe-44c4-8822-d748e6fe6d8a,b8cf522a-bdb1-452e-8f7b-1244869bf606,looks around,1.0000000000000002,head movement,looks around
+204,209,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d8983b32-5630-40dd-8a35-5485c3e1a0fa,looks around,1.0000000000000002,head movement,looks around
+91,96,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d8983b32-5630-40dd-8a35-5485c3e1a0fa,looks around,1.0000000000000002,head movement,looks around
+829,834,41513f7d-7445-4b72-a33c-bfcdb999b3be,d328288a-0b19-4c56-a74f-650f0957fbce,looks around,1.0000000000000002,head movement,looks around
+841,846,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+844,849,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+848,853,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+852,857,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+857,862,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+832,837,584fd34c-9bd5-44fd-8266-9d3161d8c790,13648a91-7888-4c59-bca3-7fac491da7b1,c looks around,1.0000000000000002,head movement,looks around
+1325,1330,584fd34c-9bd5-44fd-8266-9d3161d8c790,1a246e68-73c2-4e24-86c6-39b4553b9c81,c looks around,1.0000000000000002,head movement,looks around
+403,408,0928af96-a3fd-4930-9bc1-2fa43d01bb53,47587007-5c26-4150-9bd3-ce6a3e81dbf9,looks around,1.0000000000000002,head movement,looks around
+611,616,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,361a01f0-8cd5-44b3-8132-1f2e5153c73f,looks around,1.0000000000000002,head movement,looks around
+966,971,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+386,391,0928af96-a3fd-4930-9bc1-2fa43d01bb53,47587007-5c26-4150-9bd3-ce6a3e81dbf9,looks around,1.0000000000000002,head movement,looks around
+2184,2189,584fd34c-9bd5-44fd-8266-9d3161d8c790,c51c1752-18f4-4234-8afc-61b39c5646ad,c looks around,1.0000000000000002,head movement,looks around
+629,634,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,361a01f0-8cd5-44b3-8132-1f2e5153c73f,looks around,1.0000000000000002,head movement,looks around
+336,341,f3d921fe-d7d8-4c09-98fd-7850154d73dc,440cb546-d63b-4e56-b9e4-121a2ff3886d,looks around,1.0000000000000002,head movement,looks around
+2218,2223,584fd34c-9bd5-44fd-8266-9d3161d8c790,c51c1752-18f4-4234-8afc-61b39c5646ad,c looks around,1.0000000000000002,head movement,looks around
+360,365,5803675e-3c89-4bbb-8d2a-c79b8d561597,4f562a30-b8ed-4d94-84a5-fc8d73c82b4e,looks around,1.0000000000000002,head movement,looks around
+2447,2452,584fd34c-9bd5-44fd-8266-9d3161d8c790,6d4ef413-0c28-43e7-94ce-c65784bc6a24,c looks around,1.0000000000000002,head movement,looks around
+2483,2488,584fd34c-9bd5-44fd-8266-9d3161d8c790,6d4ef413-0c28-43e7-94ce-c65784bc6a24,c looks around,1.0000000000000002,head movement,looks around
+379,384,5803675e-3c89-4bbb-8d2a-c79b8d561597,4f562a30-b8ed-4d94-84a5-fc8d73c82b4e,looks around,1.0000000000000002,head movement,looks around
+2642,2647,584fd34c-9bd5-44fd-8266-9d3161d8c790,6d4ef413-0c28-43e7-94ce-c65784bc6a24,c looks around,1.0000000000000002,head movement,looks around
+358,363,0928af96-a3fd-4930-9bc1-2fa43d01bb53,47587007-5c26-4150-9bd3-ce6a3e81dbf9,looks around,1.0000000000000002,head movement,looks around
+964,969,41513f7d-7445-4b72-a33c-bfcdb999b3be,5782aafd-9e44-470b-8e84-d58c22cce729,looks around,1.0000000000000002,head movement,looks around
+1228,1233,41513f7d-7445-4b72-a33c-bfcdb999b3be,4eb8c5ec-6dbd-4d58-bd27-72dcc87a16fa,looks around,1.0000000000000002,head movement,looks around
+246,251,d731d55b-a67c-498e-9016-2758185a2553,78ef4e4f-d11e-4574-a510-02ff90cffe8d,looks around,1.0000000000000002,head movement,looks around
+296,301,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d58b68b4-cbbc-4d43-bdd9-761ec921b776,looks around,1.0000000000000002,head movement,looks around
+255,260,0928af96-a3fd-4930-9bc1-2fa43d01bb53,d12bb294-393f-4bf6-b9e3-463c762b0419,looks around,1.0000000000000002,head movement,looks around
+0,5,d731d55b-a67c-498e-9016-2758185a2553,78ef4e4f-d11e-4574-a510-02ff90cffe8d,looks around,1.0000000000000002,head movement,looks around
+1343,1348,e6b7692d-5e35-4524-8d2a-385475b95806,e5cc0a40-7bcf-4397-9fe0-568c9c85c6d4,looks around,1.0000000000000002,head movement,looks around
+1385,1390,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1412,1417,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1452,1457,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1979,1984,c645ddf0-1efc-4c0a-bf58-889ea519b254,e7ed7c35-d489-4fff-b959-86da5441044c,looks around,1.0000000000000002,head movement,looks around
+1460,1465,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1473,1478,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1911,1916,c645ddf0-1efc-4c0a-bf58-889ea519b254,e7ed7c35-d489-4fff-b959-86da5441044c,looks around,1.0000000000000002,head movement,looks around
+1497,1502,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1508,1513,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+1805,1810,a23540b7-3588-48ad-b84a-1b5935db856a,086b1f16-cdf0-4db9-9f50-5a351e9c9350,looks around,1.0000000000000002,head movement,looks around
+1517,1522,e6b7692d-5e35-4524-8d2a-385475b95806,b17354f6-c46f-4707-9a63-51ddf3640aa7,looks around,1.0000000000000002,head movement,looks around
+891,896,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,13007465-f24c-4ae8-ba25-9976544d1529,looks around,1.0000000000000002,head movement,looks around
+1827,1832,a23540b7-3588-48ad-b84a-1b5935db856a,086b1f16-cdf0-4db9-9f50-5a351e9c9350,looks around,1.0000000000000002,head movement,looks around
+1674,1679,e6b7692d-5e35-4524-8d2a-385475b95806,e679dbce-82e1-4d2e-933a-d434258d4e58,looks around,1.0000000000000002,head movement,looks around
+237,242,0928af96-a3fd-4930-9bc1-2fa43d01bb53,d12bb294-393f-4bf6-b9e3-463c762b0419,looks around,1.0000000000000002,head movement,looks around
+410,415,5803675e-3c89-4bbb-8d2a-c79b8d561597,4f562a30-b8ed-4d94-84a5-fc8d73c82b4e,looks around,1.0000000000000002,head movement,looks around
+1702,1707,e6b7692d-5e35-4524-8d2a-385475b95806,e679dbce-82e1-4d2e-933a-d434258d4e58,looks around,1.0000000000000002,head movement,looks around
+1721,1726,e6b7692d-5e35-4524-8d2a-385475b95806,e679dbce-82e1-4d2e-933a-d434258d4e58,looks around,1.0000000000000002,head movement,looks around
+212,217,0928af96-a3fd-4930-9bc1-2fa43d01bb53,d12bb294-393f-4bf6-b9e3-463c762b0419,looks around,1.0000000000000002,head movement,looks around
+1924,1929,a23540b7-3588-48ad-b84a-1b5935db856a,5528302f-4711-4342-a03c-9e0a88b5d86a,looks around,1.0000000000000002,head movement,looks around
+205,210,0928af96-a3fd-4930-9bc1-2fa43d01bb53,d12bb294-393f-4bf6-b9e3-463c762b0419,looks around,1.0000000000000002,head movement,looks around
+2581,2586,b0429a48-6f89-4544-8128-a24fd63d3149,4f31e6e6-7def-42ee-818d-e360c4b98035,looks around,1.0000000000000002,head movement,looks around
+1931,1936,a23540b7-3588-48ad-b84a-1b5935db856a,5528302f-4711-4342-a03c-9e0a88b5d86a,looks around,1.0000000000000002,head movement,looks around
+1729,1734,e6b7692d-5e35-4524-8d2a-385475b95806,e679dbce-82e1-4d2e-933a-d434258d4e58,looks around,1.0000000000000002,head movement,looks around
+1574,1579,a23540b7-3588-48ad-b84a-1b5935db856a,96ac1044-c37d-4512-8dec-8c448f27e675,looks around,1.0000000000000002,head movement,looks around
+2007,2012,c645ddf0-1efc-4c0a-bf58-889ea519b254,e7ed7c35-d489-4fff-b959-86da5441044c,looks around,1.0000000000000002,head movement,looks around
+226,231,d731d55b-a67c-498e-9016-2758185a2553,78ef4e4f-d11e-4574-a510-02ff90cffe8d,looks around,1.0000000000000002,head movement,looks around
+975,980,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+197,202,d731d55b-a67c-498e-9016-2758185a2553,78ef4e4f-d11e-4574-a510-02ff90cffe8d,looks around,1.0000000000000002,head movement,looks around
+191,196,d731d55b-a67c-498e-9016-2758185a2553,78ef4e4f-d11e-4574-a510-02ff90cffe8d,looks around,1.0000000000000002,head movement,looks around
+189,194,d731d55b-a67c-498e-9016-2758185a2553,78ef4e4f-d11e-4574-a510-02ff90cffe8d,looks around,1.0000000000000002,head movement,looks around
+846,851,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,13007465-f24c-4ae8-ba25-9976544d1529,looks around,1.0000000000000002,head movement,looks around
+389,394,e6b7692d-5e35-4524-8d2a-385475b95806,eaccc6f5-50ba-4d1f-a7b8-5a5d89023214,looks around,1.0000000000000002,head movement,looks around
+446,451,e6b7692d-5e35-4524-8d2a-385475b95806,eaccc6f5-50ba-4d1f-a7b8-5a5d89023214,looks around,1.0000000000000002,head movement,looks around
+538,543,e6b7692d-5e35-4524-8d2a-385475b95806,eaccc6f5-50ba-4d1f-a7b8-5a5d89023214,looks around,1.0000000000000002,head movement,looks around
+886,891,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+915,920,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+933,938,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+904,909,a23540b7-3588-48ad-b84a-1b5935db856a,87d43d46-d09a-43c3-ae4c-4ec6d4f3693e,looks around,1.0000000000000002,head movement,looks around
+2461,2466,c645ddf0-1efc-4c0a-bf58-889ea519b254,8bcc0f25-4460-4295-a874-6508336e829d,looks around,1.0000000000000002,head movement,looks around
+1002,1007,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+889,894,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,13007465-f24c-4ae8-ba25-9976544d1529,looks around,1.0000000000000002,head movement,looks around
+1025,1030,a23540b7-3588-48ad-b84a-1b5935db856a,87d43d46-d09a-43c3-ae4c-4ec6d4f3693e,looks around,1.0000000000000002,head movement,looks around
+1006,1011,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+291,296,0928af96-a3fd-4930-9bc1-2fa43d01bb53,47587007-5c26-4150-9bd3-ce6a3e81dbf9,looks around,1.0000000000000002,head movement,looks around
+1035,1040,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+1051,1056,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+1179,1184,a23540b7-3588-48ad-b84a-1b5935db856a,abd6b395-b5e2-48e3-b16e-6aa72bdff0c0,looks around,1.0000000000000002,head movement,looks around
+1077,1082,e6b7692d-5e35-4524-8d2a-385475b95806,67835535-bb83-4c65-a8bc-00902bf6ad76,looks around,1.0000000000000002,head movement,looks around
+1270,1275,a23540b7-3588-48ad-b84a-1b5935db856a,abd6b395-b5e2-48e3-b16e-6aa72bdff0c0,looks around,1.0000000000000002,head movement,looks around
+1160,1165,e6b7692d-5e35-4524-8d2a-385475b95806,e5cc0a40-7bcf-4397-9fe0-568c9c85c6d4,looks around,1.0000000000000002,head movement,looks around
+1218,1223,e6b7692d-5e35-4524-8d2a-385475b95806,e5cc0a40-7bcf-4397-9fe0-568c9c85c6d4,looks around,1.0000000000000002,head movement,looks around
+1242,1247,e6b7692d-5e35-4524-8d2a-385475b95806,e5cc0a40-7bcf-4397-9fe0-568c9c85c6d4,looks around,1.0000000000000002,head movement,looks around
+1357,1362,41513f7d-7445-4b72-a33c-bfcdb999b3be,4eb8c5ec-6dbd-4d58-bd27-72dcc87a16fa,looks around,1.0000000000000002,head movement,looks around
+426,431,f3d921fe-d7d8-4c09-98fd-7850154d73dc,440cb546-d63b-4e56-b9e4-121a2ff3886d,looks around,1.0000000000000002,head movement,looks around
+457,462,0928af96-a3fd-4930-9bc1-2fa43d01bb53,47587007-5c26-4150-9bd3-ce6a3e81dbf9,looks around,1.0000000000000002,head movement,looks around
+129,134,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,659ebfe9-eb13-43c8-82e4-8cdaf7460be3,looks around,1.0000000000000002,head movement,looks around
+418,423,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+1493,1498,cf7c12db-1a9e-46d3-96d6-38174bbe373c,ca82f452-1eee-4fd0-9aa7-95938503c8c8,looks around,1.0000000000000002,head movement,looks around
+20,25,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6bc71179-28ba-4f7c-9190-518ee3fb27a7,looks around,1.0000000000000002,head movement,looks around
+1711,1716,a16dde53-8a4d-4246-aab4-9759f0af81f0,fe4b1548-82c2-4b60-92e5-709cdf4146a5,looks around,1.0000000000000002,head movement,looks around
+1464,1469,cf7c12db-1a9e-46d3-96d6-38174bbe373c,ca82f452-1eee-4fd0-9aa7-95938503c8c8,looks around,1.0000000000000002,head movement,looks around
+1459,1464,cf7c12db-1a9e-46d3-96d6-38174bbe373c,ca82f452-1eee-4fd0-9aa7-95938503c8c8,looks around,1.0000000000000002,head movement,looks around
+0,5,41513f7d-7445-4b72-a33c-bfcdb999b3be,fb060895-22ca-4c1e-ae38-6910a0a50d2a,looks around,1.0000000000000002,head movement,looks around
+3,8,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6bc71179-28ba-4f7c-9190-518ee3fb27a7,looks around,1.0000000000000002,head movement,looks around
+1663,1668,a16dde53-8a4d-4246-aab4-9759f0af81f0,fe4b1548-82c2-4b60-92e5-709cdf4146a5,looks around,1.0000000000000002,head movement,looks around
+209,214,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+390,395,3b021bad-6945-4be2-a7db-44af3db1eae8,0b6b62fe-0476-4df1-ad01-2b19a072210e,c looks around,1.0000000000000002,head movement,looks around
+296,301,3efbad19-b258-443a-8f71-d4f7e4f8aef1,c3338594-7e3d-45b9-bbf7-5f1b6dfe8f69,looks around,1.0000000000000002,head movement,looks around
+207,212,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+24,29,41513f7d-7445-4b72-a33c-bfcdb999b3be,fb060895-22ca-4c1e-ae38-6910a0a50d2a,looks around,1.0000000000000002,head movement,looks around
+249,254,fc18441d-9bf2-412a-9939-a481fbdd08df,24d84522-a58a-48d9-9202-313e10e36440,looks around,1.0000000000000002,head movement,looks around
+1072,1077,686b4d50-3820-4157-bcf4-80d6feaebc7e,d0e2076e-2b06-4935-9a2a-eb81e8e6b2a4,looks around,1.0000000000000002,head movement,looks around
+200,205,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+991,996,686b4d50-3820-4157-bcf4-80d6feaebc7e,d0e2076e-2b06-4935-9a2a-eb81e8e6b2a4,looks around,1.0000000000000002,head movement,looks around
+937,942,686b4d50-3820-4157-bcf4-80d6feaebc7e,d0e2076e-2b06-4935-9a2a-eb81e8e6b2a4,looks around,1.0000000000000002,head movement,looks around
+753,758,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+139,144,55cf338b-c86b-4f6e-85fd-dc4b722d1967,db22e828-5b1b-4f03-821c-1ffcf161b8ce,looks around,1.0000000000000002,head movement,looks around
+901,906,686b4d50-3820-4157-bcf4-80d6feaebc7e,d0e2076e-2b06-4935-9a2a-eb81e8e6b2a4,looks around,1.0000000000000002,head movement,looks around
+821,826,686b4d50-3820-4157-bcf4-80d6feaebc7e,b581fca6-834a-42e5-91af-e51aa60c4db6,looks around,1.0000000000000002,head movement,looks around
+587,592,0928af96-a3fd-4930-9bc1-2fa43d01bb53,31b15594-ac4d-457c-a4de-9ef6535cfe58,looks around,1.0000000000000002,head movement,looks around
+687,692,686b4d50-3820-4157-bcf4-80d6feaebc7e,b581fca6-834a-42e5-91af-e51aa60c4db6,looks around,1.0000000000000002,head movement,looks around
+644,649,686b4d50-3820-4157-bcf4-80d6feaebc7e,b581fca6-834a-42e5-91af-e51aa60c4db6,looks around,1.0000000000000002,head movement,looks around
+154,159,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+168,173,fc18441d-9bf2-412a-9939-a481fbdd08df,24d84522-a58a-48d9-9202-313e10e36440,looks around,1.0000000000000002,head movement,looks around
+143,148,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6bc71179-28ba-4f7c-9190-518ee3fb27a7,looks around,1.0000000000000002,head movement,looks around
+613,618,686b4d50-3820-4157-bcf4-80d6feaebc7e,b581fca6-834a-42e5-91af-e51aa60c4db6,looks around,1.0000000000000002,head movement,looks around
+1134,1139,6099730e-7a7c-41ce-8266-83a9f00cacec,dce9ba90-1bce-4584-b462-72ccfb5c1b50,looks around,1.0000000000000002,head movement,looks around
+344,349,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+853,858,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+860,865,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+265,270,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6bc71179-28ba-4f7c-9190-518ee3fb27a7,looks around,1.0000000000000002,head movement,looks around
+273,278,5803675e-3c89-4bbb-8d2a-c79b8d561597,e7d8cc07-ae35-4aca-8743-ab43b979e5a5,looks around,1.0000000000000002,head movement,looks around
+907,912,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+966,971,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+250,255,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6bc71179-28ba-4f7c-9190-518ee3fb27a7,looks around,1.0000000000000002,head movement,looks around
+1034,1039,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+704,709,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+1043,1048,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+1054,1059,6099730e-7a7c-41ce-8266-83a9f00cacec,aaf11a11-f0d6-4eca-accb-fe68e5416dde,looks around,1.0000000000000002,head movement,looks around
+1226,1231,6099730e-7a7c-41ce-8266-83a9f00cacec,dce9ba90-1bce-4584-b462-72ccfb5c1b50,looks around,1.0000000000000002,head movement,looks around
+1539,1544,cf7c12db-1a9e-46d3-96d6-38174bbe373c,ca82f452-1eee-4fd0-9aa7-95938503c8c8,looks around,1.0000000000000002,head movement,looks around
+1829,1834,a16dde53-8a4d-4246-aab4-9759f0af81f0,fe4b1548-82c2-4b60-92e5-709cdf4146a5,looks around,1.0000000000000002,head movement,looks around
+193,198,18c05110-1ef1-4da2-8b59-c80bf0cc9751,6bc71179-28ba-4f7c-9190-518ee3fb27a7,looks around,1.0000000000000002,head movement,looks around
+375,380,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+1249,1254,6099730e-7a7c-41ce-8266-83a9f00cacec,dce9ba90-1bce-4584-b462-72ccfb5c1b50,looks around,1.0000000000000002,head movement,looks around
+1258,1263,6099730e-7a7c-41ce-8266-83a9f00cacec,dce9ba90-1bce-4584-b462-72ccfb5c1b50,looks around,1.0000000000000002,head movement,looks around
+1570,1575,cf7c12db-1a9e-46d3-96d6-38174bbe373c,ca82f452-1eee-4fd0-9aa7-95938503c8c8,looks around,1.0000000000000002,head movement,looks around
+92,97,55cf338b-c86b-4f6e-85fd-dc4b722d1967,db22e828-5b1b-4f03-821c-1ffcf161b8ce,looks around,1.0000000000000002,head movement,looks around
+1468,1473,6099730e-7a7c-41ce-8266-83a9f00cacec,d342ece6-8255-4fc7-b96c-b1b96633d105,looks around,1.0000000000000002,head movement,looks around
+254,259,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+637,642,0928af96-a3fd-4930-9bc1-2fa43d01bb53,31b15594-ac4d-457c-a4de-9ef6535cfe58,looks around,1.0000000000000002,head movement,looks around
+1847,1852,6099730e-7a7c-41ce-8266-83a9f00cacec,caa83e10-c870-493e-bf94-23e1c2772764,looks around,1.0000000000000002,head movement,looks around
+1905,1910,6099730e-7a7c-41ce-8266-83a9f00cacec,b288f9ae-ef36-4bcb-a6a1-7b9b271d1e65,looks around,1.0000000000000002,head movement,looks around
+126,131,41513f7d-7445-4b72-a33c-bfcdb999b3be,fb060895-22ca-4c1e-ae38-6910a0a50d2a,looks around,1.0000000000000002,head movement,looks around
+150,155,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+797,802,41513f7d-7445-4b72-a33c-bfcdb999b3be,d328288a-0b19-4c56-a74f-650f0957fbce,looks around,1.0000000000000002,head movement,looks around
+13,18,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+41,46,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+1252,1257,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,d8d917b9-0359-49e4-81ee-cbc0ac0020e5,looks around,1.0000000000000002,head movement,looks around
+631,636,41513f7d-7445-4b72-a33c-bfcdb999b3be,d328288a-0b19-4c56-a74f-650f0957fbce,looks around,1.0000000000000002,head movement,looks around
+4964,4969,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,0fc6a4a5-37bf-44f7-be8f-dc1067e0610d,looks around,1.0000000000000002,head movement,looks around
+4936,4941,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,0fc6a4a5-37bf-44f7-be8f-dc1067e0610d,looks around,1.0000000000000002,head movement,looks around
+25,30,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+1273,1278,1def75d5-bd39-4638-8b3d-a4e1c2ceefeb,d8d917b9-0359-49e4-81ee-cbc0ac0020e5,looks around,1.0000000000000002,head movement,looks around
+4802,4807,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,309fcb15-275f-4458-b9aa-c988fbb8dcfd,looks around,1.0000000000000002,head movement,looks around
+1626,1631,94e0a2a7-b8f3-4677-8360-dbcf7293e621,c79ac320-f638-4a77-b946-a27065d22015,looks around,1.0000000000000002,head movement,looks around
+1526,1531,94e0a2a7-b8f3-4677-8360-dbcf7293e621,c79ac320-f638-4a77-b946-a27065d22015,looks around,1.0000000000000002,head movement,looks around
+17,22,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+1389,1394,94e0a2a7-b8f3-4677-8360-dbcf7293e621,c79ac320-f638-4a77-b946-a27065d22015,looks around,1.0000000000000002,head movement,looks around
+1128,1133,94e0a2a7-b8f3-4677-8360-dbcf7293e621,ebeac968-4680-46ab-a16a-f691f5d7c4df,looks around,1.0000000000000002,head movement,looks around
+161,166,d55c3204-8dfe-44c4-8822-d748e6fe6d8a,b8cf522a-bdb1-452e-8f7b-1244869bf606,looks around,1.0000000000000002,head movement,looks around
+953,958,94e0a2a7-b8f3-4677-8360-dbcf7293e621,9337aca8-319f-428a-ae29-b147b702aded,looks around,1.0000000000000002,head movement,looks around
+827,832,94e0a2a7-b8f3-4677-8360-dbcf7293e621,9337aca8-319f-428a-ae29-b147b702aded,looks around,1.0000000000000002,head movement,looks around
+0,5,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+813,818,94e0a2a7-b8f3-4677-8360-dbcf7293e621,50a2f3b1-204d-44dc-82e7-6bd96a964a5a,looks around,1.0000000000000002,head movement,looks around
+799,804,94e0a2a7-b8f3-4677-8360-dbcf7293e621,50a2f3b1-204d-44dc-82e7-6bd96a964a5a,looks around,1.0000000000000002,head movement,looks around
+785,790,94e0a2a7-b8f3-4677-8360-dbcf7293e621,50a2f3b1-204d-44dc-82e7-6bd96a964a5a,looks around,1.0000000000000002,head movement,looks around
+117,122,d55c3204-8dfe-44c4-8822-d748e6fe6d8a,b8cf522a-bdb1-452e-8f7b-1244869bf606,looks around,1.0000000000000002,head movement,looks around
+518,523,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d58b68b4-cbbc-4d43-bdd9-761ec921b776,looks around,1.0000000000000002,head movement,looks around
+546,551,40eeac41-9ec3-4960-b0b3-77074a6ad5b3,147a444c-8b41-4e3b-b135-9acf022a429f,looks around,1.0000000000000002,head movement,looks around
+481,486,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d58b68b4-cbbc-4d43-bdd9-761ec921b776,looks around,1.0000000000000002,head movement,looks around
+449,454,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d58b68b4-cbbc-4d43-bdd9-761ec921b776,looks around,1.0000000000000002,head movement,looks around
+411,416,94e0a2a7-b8f3-4677-8360-dbcf7293e621,d58b68b4-cbbc-4d43-bdd9-761ec921b776,looks around,1.0000000000000002,head movement,looks around
+50,55,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+63,68,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+593,598,686b4d50-3820-4157-bcf4-80d6feaebc7e,b581fca6-834a-42e5-91af-e51aa60c4db6,looks around,1.0000000000000002,head movement,looks around
+1683,1688,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+149,154,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+485,490,686b4d50-3820-4157-bcf4-80d6feaebc7e,d7859c5a-62c4-4493-925d-2e50d89cbe2c,looks around,1.0000000000000002,head movement,looks around
+14,19,f26eb8a6-2ac4-4aa4-a500-1e738d8c8b13,aa2e9cfa-65ba-4d7a-83e0-eeebdb1c855e,looks around,1.0000000000000002,head movement,looks around
+186,191,55cf338b-c86b-4f6e-85fd-dc4b722d1967,db22e828-5b1b-4f03-821c-1ffcf161b8ce,looks around,1.0000000000000002,head movement,looks around
+365,370,686b4d50-3820-4157-bcf4-80d6feaebc7e,d7859c5a-62c4-4493-925d-2e50d89cbe2c,looks around,1.0000000000000002,head movement,looks around
+1635,1640,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1639,1644,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1651,1656,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+130,135,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+1661,1666,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+124,129,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+1671,1676,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+120,125,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+810,815,75014678-aa82-42cc-91aa-313f295d62f4,eb9ef34b-f16c-48e7-9ad5-4c19540657e5,looks around,1.0000000000000002,head movement,looks around
+2388,2393,f809c446-c3f0-4974-afed-270c12df12a4,06092378-ce8a-41bc-8c26-a728716e20e7,looks around,1.0000000000000002,head movement,looks around
+1697,1702,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1729,1734,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1796,1801,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1831,1836,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+50,55,603a427f-9191-4ca4-a1b0-dd3c5e7fda70,d88d5028-0350-4997-b4f9-2e55e2823471,looks around,1.0000000000000002,head movement,looks around
+1843,1848,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1873,1878,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1894,1899,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+1897,1902,3b021bad-6945-4be2-a7db-44af3db1eae8,401b8c3e-5419-455f-81d6-3dc5a784c246,looks around,1.0000000000000002,head movement,looks around
+86,91,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+73,78,db92ffad-21ff-4cf4-bd2e-e0630faf7ae1,adddc1ef-af50-4d25-aa1c-34a122721066,looks around,1.0000000000000002,head movement,looks around
+993,998,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+1001,1006,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+1015,1020,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,c7dc86eb-45b1-413c-93ce-b27da8931596,looks around,1.0000000000000002,head movement,looks around
+0,5,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+143,148,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+140,145,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+139,144,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+120,125,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+594,599,87e5e86f-c37a-4db0-8ea0-8c0fc81ec98d,a1b78a66-1aa5-4817-9548-cdc442169c2c,looks around,1.0000000000000002,head movement,looks around
+102,107,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+30,35,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+16,21,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+543,548,87e5e86f-c37a-4db0-8ea0-8c0fc81ec98d,a83ea155-11f1-4d7d-95f1-d51db1bee147,looks around,1.0000000000000002,head movement,looks around
+12,17,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+3,8,4ed53432-e1f5-4e3f-a614-ffcaff444aca,d0aea393-c56a-47b6-b639-31bbd9f3fc69,looks around,1.0000000000000002,head movement,looks around
+484,489,87e5e86f-c37a-4db0-8ea0-8c0fc81ec98d,a83ea155-11f1-4d7d-95f1-d51db1bee147,looks around,1.0000000000000002,head movement,looks around
+1215,1220,1c677fb6-92e6-49b7-91db-4bc335e970ab,0ae8efa4-b75d-4aa4-a706-3e34a8219570,looks around,1.0000000000000002,head movement,looks around
+2984,2989,937e5809-09d0-4c6b-8d9e-9329e0cf6218,f8ec985d-e812-4af0-9026-ca16724b914e,looks around,1.0000000000000002,head movement,looks around
+317,322,87e5e86f-c37a-4db0-8ea0-8c0fc81ec98d,a83ea155-11f1-4d7d-95f1-d51db1bee147,looks around,1.0000000000000002,head movement,looks around
+409,414,ae56fbda-009b-485c-9dfa-72ce89e847bf,6f45b138-82c7-456d-be2e-27e1c6bde401,looks around,1.0000000000000002,head movement,looks around
+289,294,87e5e86f-c37a-4db0-8ea0-8c0fc81ec98d,a83ea155-11f1-4d7d-95f1-d51db1bee147,looks around,1.0000000000000002,head movement,looks around
+787,792,e47119be-41e8-4fda-94cb-e59aabb2329f,0f6ce320-a666-49ce-befa-a52c5e3e180a,walk,1.0,walking,walking
+22,27,f987286c-2ab4-4486-80f2-9124297f4be6,f9eb28a1-b25a-4f6d-8d52-7e17d6a5ea22,c c walk around,0.8937322796418697,walking,walking
+2118,2123,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+2093,2098,ab875220-cd6c-410d-8fbc-94742e51e775,a1adb449-7696-4b93-a901-f0d0395a907a,c c walk around,0.8937322796418697,walking,walking
+2172,2177,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+103,108,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+2157,2162,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+2146,2151,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+2034,2039,ab875220-cd6c-410d-8fbc-94742e51e775,a1adb449-7696-4b93-a901-f0d0395a907a,c c walk around,0.8937322796418697,walking,walking
+2106,2111,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+58,63,f987286c-2ab4-4486-80f2-9124297f4be6,f9eb28a1-b25a-4f6d-8d52-7e17d6a5ea22,c c walk around,0.8937322796418697,walking,walking
+50,55,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+1961,1966,ab875220-cd6c-410d-8fbc-94742e51e775,a1adb449-7696-4b93-a901-f0d0395a907a,c c walk around,0.8937322796418697,walking,walking
+2096,2101,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+2291,2296,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+163,168,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+1468,1473,343ff902-f0c0-4931-bca6-872ff9066fec,d3ad7a9d-e304-4b70-8ee0-9b04895a356a,c c walk around,0.8937322796418697,walking,walking
+2085,2090,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+2178,2183,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2193,2198,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+569,574,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,118b2230-85f4-4113-8e46-aadc93498653,c c walk around,0.8937322796418697,walking,walking
+2374,2379,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2296,2301,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2289,2294,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2277,2282,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2267,2272,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2352,2357,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2252,2257,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2370,2375,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2238,2243,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+1121,1126,343ff902-f0c0-4931-bca6-872ff9066fec,b9d6935b-0ffc-4ff6-8e88-916b312e87b0,c c walk around,0.8937322796418697,walking,walking
+2224,2229,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+1125,1130,343ff902-f0c0-4931-bca6-872ff9066fec,b9d6935b-0ffc-4ff6-8e88-916b312e87b0,c c walk around,0.8937322796418697,walking,walking
+2413,2418,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+2204,2209,343ff902-f0c0-4931-bca6-872ff9066fec,7de97c1d-d373-4dc6-b38f-9d80bedbeeec,c c walk around,0.8937322796418697,walking,walking
+1457,1462,343ff902-f0c0-4931-bca6-872ff9066fec,d3ad7a9d-e304-4b70-8ee0-9b04895a356a,c c walk around,0.8937322796418697,walking,walking
+28,33,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+60,65,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+113,118,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+1178,1183,343ff902-f0c0-4931-bca6-872ff9066fec,b9d6935b-0ffc-4ff6-8e88-916b312e87b0,c c walk around,0.8937322796418697,walking,walking
+2046,2051,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+38,43,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+1613,1618,343ff902-f0c0-4931-bca6-872ff9066fec,d3ad7a9d-e304-4b70-8ee0-9b04895a356a,c c walk around,0.8937322796418697,walking,walking
+502,507,7b016e40-d10a-43b3-9222-cb4787a95432,b42cce2e-2c3e-45c3-a019-51bbac7a4706,c c walk around,0.8937322796418697,walking,walking
+538,543,7b016e40-d10a-43b3-9222-cb4787a95432,b42cce2e-2c3e-45c3-a019-51bbac7a4706,c c walk around,0.8937322796418697,walking,walking
+1366,1371,343ff902-f0c0-4931-bca6-872ff9066fec,d3ad7a9d-e304-4b70-8ee0-9b04895a356a,c c walk around,0.8937322796418697,walking,walking
+546,551,7b016e40-d10a-43b3-9222-cb4787a95432,b42cce2e-2c3e-45c3-a019-51bbac7a4706,c c walk around,0.8937322796418697,walking,walking
+154,159,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,380c28a8-9969-477e-9d1e-c3cb3ed6304f,c c walk around,0.8937322796418697,walking,walking
+551,556,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+737,742,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+733,738,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+1711,1716,343ff902-f0c0-4931-bca6-872ff9066fec,77ccdbdd-4222-43d0-946a-82d31a931f40,c c walk around,0.8937322796418697,walking,walking
+565,570,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+586,591,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+592,597,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+1652,1657,343ff902-f0c0-4931-bca6-872ff9066fec,77ccdbdd-4222-43d0-946a-82d31a931f40,c c walk around,0.8937322796418697,walking,walking
+1669,1674,343ff902-f0c0-4931-bca6-872ff9066fec,77ccdbdd-4222-43d0-946a-82d31a931f40,c c walk around,0.8937322796418697,walking,walking
+612,617,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+615,620,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+627,632,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+631,636,7b016e40-d10a-43b3-9222-cb4787a95432,9706bcda-40a8-47c1-88a2-27d5014f86a0,c c walk around,0.8937322796418697,walking,walking
+1994,1999,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+1865,1870,343ff902-f0c0-4931-bca6-872ff9066fec,77ccdbdd-4222-43d0-946a-82d31a931f40,c c walk around,0.8937322796418697,walking,walking
+2037,2042,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+2041,2046,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+1487,1492,343ff902-f0c0-4931-bca6-872ff9066fec,d3ad7a9d-e304-4b70-8ee0-9b04895a356a,c c walk around,0.8937322796418697,walking,walking
+2015,2020,343ff902-f0c0-4931-bca6-872ff9066fec,732a725a-2bcc-4a0f-94c5-06e3bc23ca89,c c walk around,0.8937322796418697,walking,walking
+112,117,078b33d5-2f4c-40a1-b710-cdd368a19ff0,2900f1e1-f8ca-44d3-a845-5ea36d5b8ca6,c c walk around,0.8937322796418697,walking,walking
+98,103,078b33d5-2f4c-40a1-b710-cdd368a19ff0,2900f1e1-f8ca-44d3-a845-5ea36d5b8ca6,c c walk around,0.8937322796418697,walking,walking
+1478,1483,343ff902-f0c0-4931-bca6-872ff9066fec,d3ad7a9d-e304-4b70-8ee0-9b04895a356a,c c walk around,0.8937322796418697,walking,walking
+402,407,7b016e40-d10a-43b3-9222-cb4787a95432,b42cce2e-2c3e-45c3-a019-51bbac7a4706,c c walk around,0.8937322796418697,walking,walking
+540,545,75014678-aa82-42cc-91aa-313f295d62f4,8ef3d288-db42-4125-afbc-25c58806e5c6,stands up,1.0,stands up,stands up
+1104,1109,f522ce65-50a9-4119-9d49-57c32dea58f7,bed86328-dfea-485b-8a73-1b1188366d2c,stands up,1.0,stands up,stands up
+945,950,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0b1f7332-1b09-460b-a3f8-3899c3397ae0,stands up,1.0,stands up,stands up
+660,665,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+958,963,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0b1f7332-1b09-460b-a3f8-3899c3397ae0,stands up,1.0,stands up,stands up
+1156,1161,e6b7692d-5e35-4524-8d2a-385475b95806,e5cc0a40-7bcf-4397-9fe0-568c9c85c6d4,stands up,1.0,stands up,stands up
+173,178,01d793c6-e235-4af1-8a1d-c70dcf0c8654,ff700a01-b29c-4b62-903d-9f8f80f5c992,stands up,1.0,stands up,stands up
+1083,1088,406dd4ef-ac1e-48cc-be05-40dab5979549,66a31cdf-e4dd-48ac-835d-7417359316eb,stands up,1.0,stands up,stands up
+1001,1006,2ca764bf-10d3-4a76-8ec2-e7eec63c6e34,dde3cc50-4eff-471a-8c1a-f120ed83e402,stands up,1.0,stands up,stands up
+67,72,590ec18e-a6c7-4457-bef6-75b034a4938c,bfaea875-c50d-4dc9-a9f9-40711d801f6f,stands up,1.0,stands up,stands up
+27,32,38473fe0-8311-44f0-a976-46a1eef5c6d6,a1e10815-84a1-443e-8794-035606746ec0,stands up,1.0,stands up,stands up
+1674,1679,538c2f0a-f89e-47b5-b012-047a1b98de27,d4706d4e-22ec-415b-827e-2fe1ed32a1fb,stands up,1.0,stands up,stands up
+906,911,fcc1b592-f210-4e4a-a2e4-2dd811ae9b2b,71eacb75-8157-45ce-909e-c37a2959eb26,stands up,1.0,stands up,stands up
+651,656,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+316,321,4f44e4dc-85d3-4908-bb0d-c5b991002fec,c0efe936-f01f-4c9b-a1fc-aba9279a8d0e,stands up,1.0,stands up,stands up
+717,722,1a58c3e1-e04c-40eb-974b-379773a18736,2c03acc9-3de3-463a-b156-f50ca163a2eb,stands up,1.0,stands up,stands up
+2618,2623,34f1149c-d8d5-467c-9e3c-3b59d6393f41,47179e52-f881-4b2f-984a-1210c6becf4d,stands up,1.0,stands up,stands up
+1741,1746,538c2f0a-f89e-47b5-b012-047a1b98de27,d4706d4e-22ec-415b-827e-2fe1ed32a1fb,stands up,1.0,stands up,stands up
+636,641,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+213,218,23a1b043-771f-4769-916a-34163f2ea2ef,0e245f7a-bb8a-42a4-b049-a36719832247,stands up,1.0,stands up,stands up
+883,888,ae56fbda-009b-485c-9dfa-72ce89e847bf,b4637efd-9bef-45ad-b64e-5e89251c07e6,stands up,1.0,stands up,stands up
+1200,1205,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,129cf1b5-a66c-48b4-9527-f188dcee7d40,stands up,1.0,stands up,stands up
+932,937,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0b1f7332-1b09-460b-a3f8-3899c3397ae0,stands up,1.0,stands up,stands up
+703,708,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+886,891,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0b1f7332-1b09-460b-a3f8-3899c3397ae0,stands up,1.0,stands up,stands up
+2318,2323,34f1149c-d8d5-467c-9e3c-3b59d6393f41,7dfae3dc-b363-4af7-9599-294d9a288752,stands up,1.0,stands up,stands up
+2426,2431,06456897-960d-4d0c-8ce2-cd50a5a57bc3,ddf00c24-0389-4b05-8fb1-9dacfc5f531a,stands up,1.0,stands up,stands up
+824,829,45bf438d-0cbb-40b8-be95-58204bb3c6fe,3e878fd1-ae14-4d9c-b4f4-09554401409a,stands up,1.0,stands up,stands up
+246,251,1ea5b82f-85ab-4b05-8c55-9cc9ce9b542a,b9a9c99a-4172-41bd-888b-ab26fe303e8a,stands up,1.0,stands up,stands up
+154,159,dafc3206-3b70-4f43-b386-e0d01a3516a7,3a4d6af9-c112-40a4-b1df-3f809ba8d62a,stands up,1.0,stands up,stands up
+758,763,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,aff72435-7f72-48ac-8bd4-a65bf3df9b92,stands up,1.0,stands up,stands up
+430,435,45bf438d-0cbb-40b8-be95-58204bb3c6fe,d019707f-3ead-48b9-a104-1cd4a385bc08,stands up,1.0,stands up,stands up
+425,430,45bf438d-0cbb-40b8-be95-58204bb3c6fe,d019707f-3ead-48b9-a104-1cd4a385bc08,stands up,1.0,stands up,stands up
+482,487,000cd456-ff8d-499b-b0c1-4acead128a8b,b8198886-375e-4656-8b16-8f1a75450b84,stands up,1.0,stands up,stands up
+224,229,1ea5b82f-85ab-4b05-8c55-9cc9ce9b542a,b9a9c99a-4172-41bd-888b-ab26fe303e8a,stands up,1.0,stands up,stands up
+811,816,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,aff72435-7f72-48ac-8bd4-a65bf3df9b92,stands up,1.0,stands up,stands up
+2197,2202,34f1149c-d8d5-467c-9e3c-3b59d6393f41,7dfae3dc-b363-4af7-9599-294d9a288752,stands up,1.0,stands up,stands up
+830,835,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0b1f7332-1b09-460b-a3f8-3899c3397ae0,stands up,1.0,stands up,stands up
+114,119,29586f72-7e63-45aa-b4f1-38a6e615e46d,0e386dca-f11f-459e-8393-2c4bdbc50eb2,stands up,1.0,stands up,stands up
+717,722,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+860,865,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0b1f7332-1b09-460b-a3f8-3899c3397ae0,stands up,1.0,stands up,stands up
+1189,1194,406dd4ef-ac1e-48cc-be05-40dab5979549,d571ec45-977e-4b8c-b768-7eef5074739d,stands up,1.0,stands up,stands up
+1399,1404,cb25d0ce-db3c-449c-934a-1f0ac2dcf06e,66dc2209-6641-49de-808d-4771899fd5a7,stands up,1.0,stands up,stands up
+121,126,8383791d-2df9-4bac-89b6-4cc01df5f4d1,48b23b6a-206f-416b-a6bc-7d6dc9e9d325,stands up,1.0,stands up,stands up
+101,106,8383791d-2df9-4bac-89b6-4cc01df5f4d1,48b23b6a-206f-416b-a6bc-7d6dc9e9d325,stands up,1.0,stands up,stands up
+473,478,0928af96-a3fd-4930-9bc1-2fa43d01bb53,47587007-5c26-4150-9bd3-ce6a3e81dbf9,stands up,1.0,stands up,stands up
+862,867,ae56fbda-009b-485c-9dfa-72ce89e847bf,b4637efd-9bef-45ad-b64e-5e89251c07e6,stands up,1.0,stands up,stands up
+2078,2083,b8952ddf-dd75-4d30-99f2-4e93a286abda,11cce553-6315-4c4e-8f35-93a03b04416a,stands up,1.0,stands up,stands up
+1697,1702,8e9ce0c8-9a8f-414d-b3c4-cebd0fd1d85b,8704ea5b-61d8-42aa-a129-2cf7d2d8af39,stands up,1.0,stands up,stands up
+764,769,6442d14c-c02a-4b90-bd52-8b3c187b851b,ccc3569e-2dca-4cc4-99ad-bfafb54185af,stands up,1.0,stands up,stands up
+498,503,7cc97e6c-b934-4de3-a9ab-3dfa4a2d53d7,730ba2d7-9531-4e95-a040-2ff6dca309f0,stands up,1.0,stands up,stands up
+2379,2384,9632b0a9-cf21-4773-b95b-83aae9a23d0a,72baf05a-e7fb-447a-b308-f6eb8c3fd3a2,c c stands up,1.0,stands up,stands up
+668,673,b0f8ab26-96ea-4c96-8371-922fe32a9115,b0a80c9e-6105-426d-b18c-df4613a31ceb,stands up,1.0,stands up,stands up
+1343,1348,f522ce65-50a9-4119-9d49-57c32dea58f7,bed86328-dfea-485b-8a73-1b1188366d2c,stands up,1.0,stands up,stands up
+461,466,676c3bb3-2b7f-437b-ae1a-41f589ae188a,cabbb98c-39c7-431e-ace8-b69f30065b8a,stands up,1.0,stands up,stands up
+171,176,2bb0e3ad-3a4d-4446-b3e8-3cfb86c43f7e,5c94c5e3-785f-4db3-9075-c9cae54d3f84,stands up,1.0,stands up,stands up
+712,717,8491af2d-7226-4563-adcc-1e06da2cd763,d0cdf952-5554-4aa5-8bb4-236c0daffd6e,stands up,1.0,stands up,stands up
+821,826,6442d14c-c02a-4b90-bd52-8b3c187b851b,ccc3569e-2dca-4cc4-99ad-bfafb54185af,stands up,1.0,stands up,stands up
+1254,1259,3b021bad-6945-4be2-a7db-44af3db1eae8,100f0f98-2bae-4328-ad7e-326553714cf9,stands up,1.0,stands up,stands up
+2267,2272,06456897-960d-4d0c-8ce2-cd50a5a57bc3,ddf00c24-0389-4b05-8fb1-9dacfc5f531a,stands up,1.0,stands up,stands up
+873,878,45bf438d-0cbb-40b8-be95-58204bb3c6fe,3e878fd1-ae14-4d9c-b4f4-09554401409a,stands up,1.0,stands up,stands up
+631,636,6fab4528-101a-4a4b-bb90-a2a155a0bddb,a7697ebc-38d8-4c15-b0bf-f73fd49abae2,stands up,1.0,stands up,stands up
+13,18,cce95cd8-188e-4d6b-996f-07f58fc9d117,8642fa00-0ad1-475b-8ce2-3d536f3303c9,stands up,1.0,stands up,stands up
+2143,2148,b1b01372-64c3-4a6a-93fc-a86409f518ab,aeda7a47-5e25-469a-8bc7-7f7595e5c4c2,stands up,1.0,stands up,stands up
+437,442,f3d921fe-d7d8-4c09-98fd-7850154d73dc,440cb546-d63b-4e56-b9e4-121a2ff3886d,stands up,1.0,stands up,stands up
+1113,1118,3b021bad-6945-4be2-a7db-44af3db1eae8,100f0f98-2bae-4328-ad7e-326553714cf9,stands up,1.0,stands up,stands up
+1947,1952,b8952ddf-dd75-4d30-99f2-4e93a286abda,11cce553-6315-4c4e-8f35-93a03b04416a,stands up,1.0,stands up,stands up
+551,556,c037be7a-e56b-4053-a48b-c593bf069ef4,d6c4429d-9d01-452c-a45d-af65466faf75,stands up,1.0,stands up,stands up
+458,463,967a59be-d86f-46af-8cd4-b796efce48a1,8d090d19-f1fd-4f10-b0ae-f61f43503364,stands up,1.0,stands up,stands up
+2069,2074,538c2f0a-f89e-47b5-b012-047a1b98de27,e3cc794e-2959-4f16-b17b-a545bc8f5462,stands up,1.0,stands up,stands up
+67,72,590ec18e-a6c7-4457-bef6-75b034a4938c,030f3a12-a245-45cd-b17a-ee79e5e6ddab,stands up,1.0,stands up,stands up
+747,752,437480b7-a1df-41e1-8dde-61c9955e8b9d,c7450810-f4d0-4da9-99ca-dbb4269204b7,stands up,1.0,stands up,stands up
+583,588,6442d14c-c02a-4b90-bd52-8b3c187b851b,ccc3569e-2dca-4cc4-99ad-bfafb54185af,stands up,1.0,stands up,stands up
+1825,1830,538c2f0a-f89e-47b5-b012-047a1b98de27,d4706d4e-22ec-415b-827e-2fe1ed32a1fb,stands up,1.0,stands up,stands up
+1854,1859,eb2c9739-dba0-479c-81b7-9dda51c4ac20,320d20c8-ae7a-41fa-abd3-cff64d84b0a9,stands up,1.0,stands up,stands up
+665,670,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,d2de6481-895c-468c-9690-9d2ba9fdb1a6,stands up,1.0,stands up,stands up
+853,858,ae56fbda-009b-485c-9dfa-72ce89e847bf,b4637efd-9bef-45ad-b64e-5e89251c07e6,stands up,1.0,stands up,stands up
+165,170,f7f7d2ae-5d75-4447-934d-1573f95b8f81,42f4c6df-e004-4f6b-b177-6955887db5b2,stands up,1.0,stands up,stands up
+674,679,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,d2de6481-895c-468c-9690-9d2ba9fdb1a6,stands up,1.0,stands up,stands up
+186,191,6442d14c-c02a-4b90-bd52-8b3c187b851b,ea9ca3bc-25b3-4247-9de0-3c7bb604f0f6,stands up,1.0,stands up,stands up
+1941,1946,538c2f0a-f89e-47b5-b012-047a1b98de27,e3cc794e-2959-4f16-b17b-a545bc8f5462,stands up,1.0,stands up,stands up
+167,172,c037be7a-e56b-4053-a48b-c593bf069ef4,a95c02e5-1220-44ba-97f8-dba73f15a956,stands up,1.0,stands up,stands up
+703,708,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,d2de6481-895c-468c-9690-9d2ba9fdb1a6,stands up,1.0,stands up,stands up
+721,726,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,d2de6481-895c-468c-9690-9d2ba9fdb1a6,stands up,1.0,stands up,stands up
+803,808,676c3bb3-2b7f-437b-ae1a-41f589ae188a,8d423ddc-7397-4835-81e4-7ca82748955a,stands up,1.0,stands up,stands up
+134,139,8491af2d-7226-4563-adcc-1e06da2cd763,2fa9cf38-856a-4f8b-acb0-5aa702c78ab1,stands up,1.0,stands up,stands up
+845,850,45bf438d-0cbb-40b8-be95-58204bb3c6fe,3e878fd1-ae14-4d9c-b4f4-09554401409a,stands up,1.0,stands up,stands up
+390,395,6fab4528-101a-4a4b-bb90-a2a155a0bddb,130d63a0-65d6-4799-a58d-cdaec93893d8,stands up,1.0,stands up,stands up
+2005,2010,538c2f0a-f89e-47b5-b012-047a1b98de27,e3cc794e-2959-4f16-b17b-a545bc8f5462,stands up,1.0,stands up,stands up
+741,746,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,d2de6481-895c-468c-9690-9d2ba9fdb1a6,stands up,1.0,stands up,stands up
+939,944,7ede3aa4-b631-4715-863e-83cd4ceab976,90a2ef49-9e24-4998-ba14-c66d7579c06e,stands up,1.0,stands up,stands up
+391,396,45bf438d-0cbb-40b8-be95-58204bb3c6fe,d019707f-3ead-48b9-a104-1cd4a385bc08,stands up,1.0,stands up,stands up
+379,384,2d1bf98e-a133-4f63-bc1d-91f718078a52,cbb11013-3f44-45a4-8a4a-2415a50562e7,stands up,1.0,stands up,stands up
+322,327,8491af2d-7226-4563-adcc-1e06da2cd763,00e88df6-ff95-4186-b6ca-6a9374bd0a63,stands up,1.0,stands up,stands up
+1328,1333,406dd4ef-ac1e-48cc-be05-40dab5979549,d571ec45-977e-4b8c-b768-7eef5074739d,stands up,1.0,stands up,stands up
+142,147,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0edd6057-af64-4dd4-8f96-c5e47dabdd84,stands up,1.0,stands up,stands up
+684,689,45bf438d-0cbb-40b8-be95-58204bb3c6fe,e7b9ccc7-0dc8-4d46-a2f8-42fa40f2fa43,stands up,1.0,stands up,stands up
+85,90,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0edd6057-af64-4dd4-8f96-c5e47dabdd84,stands up,1.0,stands up,stands up
+1343,1348,f3d921fe-d7d8-4c09-98fd-7850154d73dc,255e7314-190e-4063-8d1e-d4fce317a53c,stands up,1.0,stands up,stands up
+117,122,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0edd6057-af64-4dd4-8f96-c5e47dabdd84,stands up,1.0,stands up,stands up
+395,400,2481f41b-fdff-4c32-b273-80c776c8eafd,d3622236-7bde-4945-9d1b-7143febb1731,stands up,1.0,stands up,stands up
+1120,1125,9b45530e-a510-44d8-81fc-afc8252eccdf,7eb9ac3e-3f33-4625-a878-5de0288b46d2,stands up,1.0,stands up,stands up
+2980,2985,06456897-960d-4d0c-8ce2-cd50a5a57bc3,17d5a551-9923-4d97-bfda-60dbe249705c,stands up,1.0,stands up,stands up
+2980,2985,06456897-960d-4d0c-8ce2-cd50a5a57bc3,32907c48-b2f4-4353-a7d9-74b06ff92ee0,stands up,1.0,stands up,stands up
+716,721,fcc1b592-f210-4e4a-a2e4-2dd811ae9b2b,0d12e915-3424-45c5-a454-93a71c9d75a3,stands up,1.0,stands up,stands up
+727,732,fcc1b592-f210-4e4a-a2e4-2dd811ae9b2b,0d12e915-3424-45c5-a454-93a71c9d75a3,stands up,1.0,stands up,stands up
+989,994,1a58c3e1-e04c-40eb-974b-379773a18736,e43e61e6-8a00-42f1-9da5-b3efcb40cf8b,stands up,1.0,stands up,stands up
+3003,3008,06456897-960d-4d0c-8ce2-cd50a5a57bc3,32907c48-b2f4-4353-a7d9-74b06ff92ee0,stands up,1.0,stands up,stands up
+1837,1842,9b45530e-a510-44d8-81fc-afc8252eccdf,513638ae-87dc-4067-8edf-fa75bdc70f01,stands up,1.0,stands up,stands up
+1139,1144,f7f7d2ae-5d75-4447-934d-1573f95b8f81,25d96513-666e-4490-bb08-104e06ae9007,stands up,1.0,stands up,stands up
+1093,1098,1fae6ecb-2ad9-4160-b388-c34e7d018915,2169215a-9262-4f74-9334-95dd4c241336,stands up,1.0,stands up,stands up
+745,750,fcc1b592-f210-4e4a-a2e4-2dd811ae9b2b,0d12e915-3424-45c5-a454-93a71c9d75a3,stands up,1.0,stands up,stands up
+453,458,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,7c479947-896b-4994-9260-d41ad1b16abd,stands up,1.0,stands up,stands up
+3035,3040,06456897-960d-4d0c-8ce2-cd50a5a57bc3,32907c48-b2f4-4353-a7d9-74b06ff92ee0,stands up,1.0,stands up,stands up
+909,914,7dd6f14c-bdc0-45cc-86c1-a2af2b61d177,66a5c525-8b5a-42fd-bd2b-fae3ef077e1b,stands up,1.0,stands up,stands up
+212,217,4f44e4dc-85d3-4908-bb0d-c5b991002fec,a3b0e2b4-83ea-4cf3-a0f3-0420eee81e42,stands up,1.0,stands up,stands up
+2838,2843,06456897-960d-4d0c-8ce2-cd50a5a57bc3,17d5a551-9923-4d97-bfda-60dbe249705c,stands up,1.0,stands up,stands up
+1286,1291,4ed53432-e1f5-4e3f-a614-ffcaff444aca,0da09b3e-61fe-419c-aadf-b42c1f6657ad,stands up,1.0,stands up,stands up
+1022,1027,34f1149c-d8d5-467c-9e3c-3b59d6393f41,3dfd0a86-caf6-424c-9b68-0f762e3bf6f5,stands up,1.0,stands up,stands up
+1118,1123,343ff902-f0c0-4931-bca6-872ff9066fec,48dfcc4a-1c6e-4ce0-9e78-6c26fc7fa7ca,stands up,1.0,stands up,stands up
+678,683,8491af2d-7226-4563-adcc-1e06da2cd763,d0cdf952-5554-4aa5-8bb4-236c0daffd6e,stands up,1.0,stands up,stands up
+647,652,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,e7b8e6c3-2b26-472e-8c59-a35a83d61291,stands up,1.0,stands up,stands up
+1435,1440,343ff902-f0c0-4931-bca6-872ff9066fec,d921a4a0-8a09-4586-a8fb-fe26aaae177f,stands up,1.0,stands up,stands up
+2771,2776,06456897-960d-4d0c-8ce2-cd50a5a57bc3,17d5a551-9923-4d97-bfda-60dbe249705c,stands up,1.0,stands up,stands up
+744,749,45bf438d-0cbb-40b8-be95-58204bb3c6fe,e7b9ccc7-0dc8-4d46-a2f8-42fa40f2fa43,stands up,1.0,stands up,stands up
+737,742,45bf438d-0cbb-40b8-be95-58204bb3c6fe,e7b9ccc7-0dc8-4d46-a2f8-42fa40f2fa43,stands up,1.0,stands up,stands up
+2723,2728,06456897-960d-4d0c-8ce2-cd50a5a57bc3,17d5a551-9923-4d97-bfda-60dbe249705c,stands up,1.0,stands up,stands up
+616,621,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,e7b8e6c3-2b26-472e-8c59-a35a83d61291,stands up,1.0,stands up,stands up
+590,595,fcc1b592-f210-4e4a-a2e4-2dd811ae9b2b,0d12e915-3424-45c5-a454-93a71c9d75a3,stands up,1.0,stands up,stands up
+24,29,2ca764bf-10d3-4a76-8ec2-e7eec63c6e34,77bc93e6-b889-47a8-b678-f3e12ae32989,stands up,1.0,stands up,stands up
+1337,1342,343ff902-f0c0-4931-bca6-872ff9066fec,48dfcc4a-1c6e-4ce0-9e78-6c26fc7fa7ca,stands up,1.0,stands up,stands up
+89,94,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,aa4ad44b-97d5-4850-beec-01d1c299cdf0,stands up,1.0,stands up,stands up
+61,66,bedaa131-deae-4279-9fd4-5b6ab552644c,e41fba60-7ea3-4b46-99df-df2319f520cd,stands up,1.0,stands up,stands up
+59,64,03f5b0be-94ac-4d22-9c30-7bf0456ccf0e,0edee556-87cd-4cb5-8b61-51179672dc47,stands up,1.0,stands up,stands up
+1181,1186,34f1149c-d8d5-467c-9e3c-3b59d6393f41,5faf4859-1666-4e38-9fea-6595050e0829,stands up,1.0,stands up,stands up
+1791,1796,406dd4ef-ac1e-48cc-be05-40dab5979549,40344adc-1f11-434d-8fcc-30f4112d12e5,stands up,1.0,stands up,stands up
+2204,2209,2fa81cfe-e0d4-42e5-be39-e14287215bd2,c4aa22cf-cc0e-4a3f-9a31-7808cc095bc5,stands up,1.0,stands up,stands up
+1092,1097,34f1149c-d8d5-467c-9e3c-3b59d6393f41,5faf4859-1666-4e38-9fea-6595050e0829,stands up,1.0,stands up,stands up
+223,228,0d8a3e5c-4263-4f80-b32d-39d4f33008ba,fdb3d728-7e46-4b46-bfb9-6bca75d0c30f,stands up,1.0,stands up,stands up
+2092,2097,9b45530e-a510-44d8-81fc-afc8252eccdf,1432556d-4657-4313-b8cb-91e6e93fb03f,stands up,1.0,stands up,stands up
+1151,1156,20400762-1e47-462d-a7d1-64a1b162b1f9,7d632647-3638-478f-ba1c-bcae3f5cf094,stands up,1.0,stands up,stands up
+90,95,1c677fb6-92e6-49b7-91db-4bc335e970ab,076d6917-f748-4d23-a4f4-677147991d8d,stands up,1.0,stands up,stands up
+498,503,1e5ca2af-3f1b-40d5-b3a7-d712ac4b5065,9f3b0589-9324-431d-9aff-0c024a02aa30,stands up,1.0,stands up,stands up
+1741,1746,10a7fd5a-169d-4b0c-ba8b-825af7bd2117,67446b2e-dfcc-4444-87ac-615a3dd91e83,stands up,1.0,stands up,stands up
+611,616,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,aff72435-7f72-48ac-8bd4-a65bf3df9b92,stands up,1.0,stands up,stands up
+916,921,4ed53432-e1f5-4e3f-a614-ffcaff444aca,5cf87219-bf46-4c0b-addc-7d1df0c10425,stands up,1.0,stands up,stands up
+2378,2383,9632b0a9-cf21-4773-b95b-83aae9a23d0a,eb452b71-e627-41fc-be6d-08b047edbff7,stands up,1.0,stands up,stands up
+1898,1903,4403d338-d20a-4045-89d8-617f4f4769fc,a736dc43-52d9-4980-9173-e97ceb47a173,stands up,1.0,stands up,stands up
+819,824,4ed53432-e1f5-4e3f-a614-ffcaff444aca,fbf319f9-62f0-4f67-bfa0-dc0372819511,stands up,1.0,stands up,stands up
+305,310,1ea5b82f-85ab-4b05-8c55-9cc9ce9b542a,f4895a6c-2e4a-4f3a-b81d-96c7889be254,stands up,1.0,stands up,stands up
+749,754,4ed53432-e1f5-4e3f-a614-ffcaff444aca,fbf319f9-62f0-4f67-bfa0-dc0372819511,stands up,1.0,stands up,stands up
+814,819,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+1117,1122,538c2f0a-f89e-47b5-b012-047a1b98de27,e238930d-a443-4952-bdfe-ec94f35eae03,stands up,1.0,stands up,stands up
+811,816,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6dcca46e-9147-4660-b56d-7f6617c1bd0c,stands up,1.0,stands up,stands up
+404,409,ebd99fba-756f-41a1-b7b7-88f37824a400,3d73e370-b84e-488b-9449-6684d55dd9cd,stands up,1.0,stands up,stands up
+467,472,719bf9c4-a216-4166-963b-80ece9f87a48,fdebab44-20d5-4096-b194-1354ffaff5c6,stands up,1.0,stands up,stands up
+3270,3275,1c677fb6-92e6-49b7-91db-4bc335e970ab,c966fc8f-ea18-4149-9ae5-3b5bd6f33d57,stands up,1.0,stands up,stands up
+731,736,cd4cf777-fa95-4226-9453-f00ce43fe323,b3f57abd-bc41-40bf-b041-52f68384eeaf,stands up,1.0,stands up,stands up
+1365,1370,406dd4ef-ac1e-48cc-be05-40dab5979549,d0d97dab-7e27-4f12-a2a0-1f0c2e014fee,stands up,1.0,stands up,stands up
+1887,1892,10a7fd5a-169d-4b0c-ba8b-825af7bd2117,67446b2e-dfcc-4444-87ac-615a3dd91e83,stands up,1.0,stands up,stands up
+1097,1102,36bff607-9c5d-43f4-97d2-38ad79e5220c,ea8dfd4c-b26f-4a3c-8391-59e134703115,stands up,1.0,stands up,stands up
+265,270,47c9a6a5-b6e4-4d09-8916-da61344e94cf,d18e40a1-2ac7-42ce-88f7-4e344f400306,stands up,1.0,stands up,stands up
+1180,1185,f7f7d2ae-5d75-4447-934d-1573f95b8f81,25d96513-666e-4490-bb08-104e06ae9007,stands up,1.0,stands up,stands up
+3334,3339,1c677fb6-92e6-49b7-91db-4bc335e970ab,c966fc8f-ea18-4149-9ae5-3b5bd6f33d57,stands up,1.0,stands up,stands up
+56,61,47c9a6a5-b6e4-4d09-8916-da61344e94cf,d18e40a1-2ac7-42ce-88f7-4e344f400306,stands up,1.0,stands up,stands up
+282,287,b15fd8ef-8032-4b5b-91ed-dd223ce86592,2b2bd4c0-dbf9-4d01-b342-4493cb5bf9fc,stands up,1.0,stands up,stands up
+2414,2419,9b45530e-a510-44d8-81fc-afc8252eccdf,323ab41c-85ca-442e-8289-4c2eaa5ec9f4,stands up,1.0,stands up,stands up
+717,722,1a58c3e1-e04c-40eb-974b-379773a18736,4317feb5-f4c7-48c4-81d0-9bc245295418,stands up,1.0,stands up,stands up
+672,677,1a58c3e1-e04c-40eb-974b-379773a18736,4317feb5-f4c7-48c4-81d0-9bc245295418,stands up,1.0,stands up,stands up
+1477,1482,4dd9015c-6d8c-4b64-b5ed-e284226b738a,c23bffa9-dfd2-415d-85b6-1713b2fb351f,stands up,1.0,stands up,stands up
+17,22,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,aa4ad44b-97d5-4850-beec-01d1c299cdf0,stands up,1.0,stands up,stands up
+57,62,1c677fb6-92e6-49b7-91db-4bc335e970ab,076d6917-f748-4d23-a4f4-677147991d8d,stands up,1.0,stands up,stands up
+792,797,538c2f0a-f89e-47b5-b012-047a1b98de27,0ab42c07-6e89-427b-b165-e5288dbab014,stands up,1.0,stands up,stands up
+796,801,538c2f0a-f89e-47b5-b012-047a1b98de27,0ab42c07-6e89-427b-b165-e5288dbab014,stands up,1.0,stands up,stands up
+213,218,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,0edd6057-af64-4dd4-8f96-c5e47dabdd84,stands up,1.0,stands up,stands up
+13,18,1c677fb6-92e6-49b7-91db-4bc335e970ab,076d6917-f748-4d23-a4f4-677147991d8d,stands up,1.0,stands up,stands up
+3095,3100,06456897-960d-4d0c-8ce2-cd50a5a57bc3,32907c48-b2f4-4353-a7d9-74b06ff92ee0,stands up,1.0,stands up,stands up
+564,569,9b45530e-a510-44d8-81fc-afc8252eccdf,b1d625ec-cfa0-47c3-8e96-599db68958dc,stands up,1.0,stands up,stands up
+284,289,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,74dcb1e1-64ce-4ee4-b132-0fd7bd6879aa,stands up,1.0,stands up,stands up
+320,325,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,74dcb1e1-64ce-4ee4-b132-0fd7bd6879aa,stands up,1.0,stands up,stands up
+640,645,7dd6f14c-bdc0-45cc-86c1-a2af2b61d177,0f111ecf-bbb8-462b-a5b8-d5b9c0980a51,stands up,1.0,stands up,stands up
+1743,1748,34f1149c-d8d5-467c-9e3c-3b59d6393f41,d7645f75-4866-40ac-a6e6-6e52f2dc0c6d,stands up,1.0,stands up,stands up
+3402,3407,1c677fb6-92e6-49b7-91db-4bc335e970ab,c966fc8f-ea18-4149-9ae5-3b5bd6f33d57,stands up,1.0,stands up,stands up
+287,292,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,7c479947-896b-4994-9260-d41ad1b16abd,stands up,1.0,stands up,stands up
+511,516,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,74dcb1e1-64ce-4ee4-b132-0fd7bd6879aa,stands up,1.0,stands up,stands up
+2044,2049,b8952ddf-dd75-4d30-99f2-4e93a286abda,11cce553-6315-4c4e-8f35-93a03b04416a,stands up,1.0,stands up,stands up
+894,899,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,b2917b2e-4f9e-4acc-8d94-32606808a77a,stands up,1.0,stands up,stands up
+1113,1118,9b49246f-30e9-476f-ab8c-56a1bcb1d936,be15ce7c-5b6c-4612-9f74-207f55157370,stands up,1.0,stands up,stands up
+2122,2127,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,e88e8032-430f-4ed7-862d-1def23228c9c,stands up,1.0,stands up,stands up
+146,151,c4f06549-15b5-49b8-b2d7-bf2a1c26edaa,ad643a9d-5cd5-4b40-bea9-0951cf69023b,stands up,1.0,stands up,stands up
+1874,1879,3b856ad7-6781-473a-b528-357dafb153ac,f94ca491-1c88-4ee8-ac7d-edd58f93617b,stands up,1.0,stands up,stands up
+124,129,f00d5909-4828-4475-be3a-474b12c9eccf,4ead800b-9e60-4ad6-a2e1-aa61f5a9ae89,stands up,1.0,stands up,stands up
+1286,1291,4ed53432-e1f5-4e3f-a614-ffcaff444aca,8adc1534-8170-42ee-84d9-b1af4c3de254,stands up,1.0,stands up,stands up
+1468,1473,6442d14c-c02a-4b90-bd52-8b3c187b851b,ad02c916-9112-45e4-ad83-6bfcb847e77c,stands up,1.0,stands up,stands up
+38,43,aee3035a-a3cf-473b-afe9-168717aec9c6,6fd6f63f-f103-4083-9684-10470d7628c7,stands up,1.0,stands up,stands up
+21,26,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+873,878,9c59e912-2340-4400-b2df-7db3d4066723,ef1db807-4d3b-43e7-93d4-a1cb4b6e636d,c c stands up,1.0,stands up,stands up
+57,62,db3f7933-dfa0-4678-9d4f-393b628ded45,ced48070-c290-4470-bca2-5dbf5452b740,stands up,1.0,stands up,stands up
+1658,1663,f7f7d2ae-5d75-4447-934d-1573f95b8f81,a58ba726-e002-4df2-bb2b-29d4ab98bb92,stands up,1.0,stands up,stands up
+56,61,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands up,1.0,stands up,stands up
+43,48,db3f7933-dfa0-4678-9d4f-393b628ded45,ced48070-c290-4470-bca2-5dbf5452b740,stands up,1.0,stands up,stands up
+136,141,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands up,1.0,stands up,stands up
+185,190,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands up,1.0,stands up,stands up
+221,226,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands up,1.0,stands up,stands up
+911,916,e47119be-41e8-4fda-94cb-e59aabb2329f,dd6bfe55-2dc0-4149-9524-4189152be292,stands up,1.0,stands up,stands up
+1084,1089,6a1bdcdb-0def-4cbb-87ab-0da83b63552c,76842e4c-6f76-4334-bb6a-c0c9afe9e458,stands up,1.0,stands up,stands up
+633,638,f3d921fe-d7d8-4c09-98fd-7850154d73dc,79d158bd-b6b7-4d32-b823-82c8373d7c68,stands up,1.0,stands up,stands up
+353,358,56e92c65-c82e-413b-aaf9-26a0dd5fbbe2,8b96cdef-6eee-4848-8117-c2b7dcf61661,stands up,1.0,stands up,stands up
+25,30,f3d921fe-d7d8-4c09-98fd-7850154d73dc,6ee115cc-6b69-478b-9328-101edbbc2006,stands up,1.0,stands up,stands up
+148,153,2af3d6a1-36bf-48b5-a272-c03a960c608e,5644005a-667b-4f08-ada5-1ac6848406a8,stands up,1.0,stands up,stands up
+867,872,406dd4ef-ac1e-48cc-be05-40dab5979549,66a31cdf-e4dd-48ac-835d-7417359316eb,stands up,1.0,stands up,stands up
+630,635,a869ed3c-901d-4328-99f0-9b446822a412,ae856bb0-0034-427a-ba8e-08a3606e58af,stands up,1.0,stands up,stands up
+3857,3862,a0fb8289-7d55-4af3-9d2b-2b3e4a12ab65,cb56683c-1701-4d73-8646-02c826524ec8,stands up,1.0,stands up,stands up
+654,659,a869ed3c-901d-4328-99f0-9b446822a412,ae856bb0-0034-427a-ba8e-08a3606e58af,stands up,1.0,stands up,stands up
+504,509,6442d14c-c02a-4b90-bd52-8b3c187b851b,388f65e4-20f3-4b6d-9a7d-167f6c2af14e,stands up,1.0,stands up,stands up
+532,537,56e92c65-c82e-413b-aaf9-26a0dd5fbbe2,8b96cdef-6eee-4848-8117-c2b7dcf61661,stands up,1.0,stands up,stands up
+1097,1102,36bff607-9c5d-43f4-97d2-38ad79e5220c,58e9311e-3bff-493f-8e15-cd1d7fcb39d5,c c stands up,1.0,stands up,stands up
+99,104,1f84d80d-6f8d-4e40-aabb-b33aad3ba594,19b4a0e5-b54c-4de3-b873-45d0e7797af3,stands up,1.0,stands up,stands up
+4154,4159,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,c68c998e-8b86-4f5d-81f5-4183e8e0395e,stands up,1.0,stands up,stands up
+171,176,82a3744e-cedb-4a4f-8e47-bc5c1a2b3ac0,f859108d-cc80-40d0-859c-d368ebc4683e,stands up,1.0,stands up,stands up
+766,771,6442d14c-c02a-4b90-bd52-8b3c187b851b,bd2bf0de-b6a4-40fc-8a54-413966afc1fc,stands up,1.0,stands up,stands up
+43,48,cce95cd8-188e-4d6b-996f-07f58fc9d117,8642fa00-0ad1-475b-8ce2-3d536f3303c9,stands up,1.0,stands up,stands up
+821,826,6442d14c-c02a-4b90-bd52-8b3c187b851b,bd2bf0de-b6a4-40fc-8a54-413966afc1fc,stands up,1.0,stands up,stands up
+211,216,4f44e4dc-85d3-4908-bb0d-c5b991002fec,73affbad-1dd5-406f-aeb6-bb8b1ddb307c,stands up,1.0,stands up,stands up
+259,264,f9f1adf2-443e-4af9-bbf8-2aa97a03c7c8,5e7a06f0-c3fc-4e43-ab00-03758385623a,stands up,1.0,stands up,stands up
+668,673,56d0a3e8-58c0-4d4d-b1a8-097b8cabcc95,6929d3af-0767-4329-b5c8-132c8473c0e8,stands up,1.0,stands up,stands up
+38,43,aee3035a-a3cf-473b-afe9-168717aec9c6,961e9ea2-4577-4b1b-a5ad-f66cd798b385,stands up,1.0,stands up,stands up
+75,80,3fa54ca6-3988-4a7f-9295-41236f4ee925,7a128f51-058c-4380-9952-d5adcdcd1087,stands up,1.0,stands up,stands up
+185,190,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+272,277,6442d14c-c02a-4b90-bd52-8b3c187b851b,754005cb-3a06-4621-bddf-f1b438c986e8,stands up,1.0,stands up,stands up
+136,141,9c59e912-2340-4400-b2df-7db3d4066723,f70c87b0-6c99-4861-946f-ed9ffed2b503,c c stands up,1.0,stands up,stands up
+77,82,84d6855a-242b-44a6-b48d-2db302b5ea7a,dc3d4511-6a9c-4452-a707-311ec7adcd89,stands up,1.0,stands up,stands up
+249,254,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+466,471,63f0f27d-645c-4efc-9162-6f0cb0353bc8,fc21472d-3dfd-4c17-9e31-69104c25acf6,stands up,1.0,stands up,stands up
+2085,2090,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,333b3673-050a-483e-a385-3511b937de50,stands up,1.0,stands up,stands up
+793,798,2f77c6e3-3751-44ea-887f-2c8caf9c6485,6c63d2ca-69ff-4db2-bf32-4b90cf872de2,c c stands up,1.0,stands up,stands up
+250,255,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+520,525,f6277269-1c87-439c-b5be-d4a02343018a,d8cd92e8-aab6-4326-b7e7-ce8350b2b1ba,stands up,1.0,stands up,stands up
+1425,1430,2f77c6e3-3751-44ea-887f-2c8caf9c6485,d38238a2-ab93-40bf-927b-502606a33319,c c stands up,1.0,stands up,stands up
+1466,1471,2f77c6e3-3751-44ea-887f-2c8caf9c6485,d38238a2-ab93-40bf-927b-502606a33319,c c stands up,1.0,stands up,stands up
+264,269,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+1171,1176,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,bb54d376-549e-4714-b556-c8571e394ba3,stands up,1.0,stands up,stands up
+233,238,84d6855a-242b-44a6-b48d-2db302b5ea7a,dc3d4511-6a9c-4452-a707-311ec7adcd89,stands up,1.0,stands up,stands up
+33,38,a81025df-f9a9-4536-9abf-b58a550ac546,fcbe92fb-1be9-4ae3-bab2-369563c0a584,stands up,1.0,stands up,stands up
+146,151,bedaa131-deae-4279-9fd4-5b6ab552644c,e41fba60-7ea3-4b46-99df-df2319f520cd,stands up,1.0,stands up,stands up
+22,27,4a758e36-ab98-4bbf-aefb-c84df5f1e25e,401e0b00-91bd-4894-b65d-866847dde3ca,stands up,1.0,stands up,stands up
+47,52,4a758e36-ab98-4bbf-aefb-c84df5f1e25e,401e0b00-91bd-4894-b65d-866847dde3ca,stands up,1.0,stands up,stands up
+171,176,2bb0e3ad-3a4d-4446-b3e8-3cfb86c43f7e,eba9390f-a9ed-46c5-879e-ab1c7e7c66e7,stands up,1.0,stands up,stands up
+2891,2896,dca2e9e2-acde-49b7-8b0e-5a150e536769,089289b9-c494-4a71-9445-031be89ece90,stands up,1.0,stands up,stands up
+233,238,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+189,194,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+1862,1867,6442d14c-c02a-4b90-bd52-8b3c187b851b,fa2dc4b4-7516-4523-8a08-ea458230a923,stands up,1.0,stands up,stands up
+2236,2241,8d27f903-5c76-4a63-9d0b-2ff2d29ae9a9,b9d639cb-d3d9-4a13-8c7e-2abd03be5e7d,stands up,1.0,stands up,stands up
+116,121,398ad750-86ea-4298-a97a-b6b689f1ad13,e3411d70-0dc9-459e-8477-e60a1ccf835a,stands up,1.0,stands up,stands up
+2121,2126,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,4d53cd43-f286-4602-a25d-b0da589573f7,c c stands up,1.0,stands up,stands up
+122,127,398ad750-86ea-4298-a97a-b6b689f1ad13,e3411d70-0dc9-459e-8477-e60a1ccf835a,stands up,1.0,stands up,stands up
+439,444,2f77c6e3-3751-44ea-887f-2c8caf9c6485,b2cbd3ad-a673-4328-8207-aa718dde7641,c c stands up,1.0,stands up,stands up
+129,134,398ad750-86ea-4298-a97a-b6b689f1ad13,e3411d70-0dc9-459e-8477-e60a1ccf835a,stands up,1.0,stands up,stands up
+260,265,6a1bdcdb-0def-4cbb-87ab-0da83b63552c,29a32fd0-d922-43e2-9224-0b8a3d2fc354,stands up,1.0,stands up,stands up
+135,140,398ad750-86ea-4298-a97a-b6b689f1ad13,e3411d70-0dc9-459e-8477-e60a1ccf835a,stands up,1.0,stands up,stands up
+205,210,0ce20f1b-104c-48aa-a957-75f772238639,e620600b-e683-4f7b-97a6-de72ca77d1b8,stands up,1.0,stands up,stands up
+141,146,398ad750-86ea-4298-a97a-b6b689f1ad13,e3411d70-0dc9-459e-8477-e60a1ccf835a,stands up,1.0,stands up,stands up
+645,650,07b357ce-0bce-4d5e-b7ab-c16f1d4c7de6,527d834c-ac04-4d2e-b464-559d05b579a7,stands up,1.0,stands up,stands up
+202,207,65c16752-c157-4a21-9654-d980f8fdf36c,45f2d057-4a9b-4408-90b1-98118c58e718,stands up,1.0,stands up,stands up
+487,492,2f77c6e3-3751-44ea-887f-2c8caf9c6485,b2cbd3ad-a673-4328-8207-aa718dde7641,c c stands up,1.0,stands up,stands up
+536,541,2f77c6e3-3751-44ea-887f-2c8caf9c6485,b2cbd3ad-a673-4328-8207-aa718dde7641,c c stands up,1.0,stands up,stands up
+1469,1474,798cc542-3fd4-42eb-9bf4-f3910603158b,7b4c8946-df27-476b-a717-224e3da0335a,stands up,1.0,stands up,stands up
+206,211,9c59e912-2340-4400-b2df-7db3d4066723,f70c87b0-6c99-4861-946f-ed9ffed2b503,c c stands up,1.0,stands up,stands up
+73,78,ee4f182a-fc16-4c69-a9f3-8201da8bfa91,1a913f2e-02d7-4bc5-b460-5a7ee8efcb08,stands up,1.0,stands up,stands up
+430,435,6442d14c-c02a-4b90-bd52-8b3c187b851b,388f65e4-20f3-4b6d-9a7d-167f6c2af14e,stands up,1.0,stands up,stands up
+689,694,fcc1b592-f210-4e4a-a2e4-2dd811ae9b2b,0d12e915-3424-45c5-a454-93a71c9d75a3,stands up,1.0,stands up,stands up
+273,278,cce95cd8-188e-4d6b-996f-07f58fc9d117,8642fa00-0ad1-475b-8ce2-3d536f3303c9,stands up,1.0,stands up,stands up
+294,299,bff1d1da-957f-42ea-8c98-61eaca98b5f1,9b65f2ca-4b7c-4f40-ad7d-c780ff17ab5b,stands up,1.0,stands up,stands up
+2827,2832,b8952ddf-dd75-4d30-99f2-4e93a286abda,52c90462-a2ff-4500-a7ef-f9dde44ece6e,stands up,1.0,stands up,stands up
+387,392,6fab4528-101a-4a4b-bb90-a2a155a0bddb,8cfed02a-e31b-4ced-b2cd-01ee2251fa22,stands up,1.0,stands up,stands up
+3021,3026,9d27c41b-d4d2-47a6-8334-1f930121e956,ba275a5c-b314-4cd1-befa-3e17bd0c055d,stands up,1.0,stands up,stands up
+3645,3650,652f0590-aab5-4de1-b578-238adb54fa0e,7bb3f526-423e-4564-beb3-550764e11e77,stands up,1.0,stands up,stands up
+351,356,f3d921fe-d7d8-4c09-98fd-7850154d73dc,440cb546-d63b-4e56-b9e4-121a2ff3886d,stands up,1.0,stands up,stands up
+316,321,4f44e4dc-85d3-4908-bb0d-c5b991002fec,afd72907-ff1d-403a-819e-bb67c49bcac6,stands up,1.0,stands up,stands up
+3081,3086,9d27c41b-d4d2-47a6-8334-1f930121e956,ba275a5c-b314-4cd1-befa-3e17bd0c055d,stands up,1.0,stands up,stands up
+23,28,6fab4528-101a-4a4b-bb90-a2a155a0bddb,a4a3255f-d811-4c23-b09b-c70cd49bd226,stands up,1.0,stands up,stands up
+618,623,56e92c65-c82e-413b-aaf9-26a0dd5fbbe2,892aff86-8e77-460d-8b20-5e1138238319,stands up,1.0,stands up,stands up
+325,330,bff1d1da-957f-42ea-8c98-61eaca98b5f1,9b65f2ca-4b7c-4f40-ad7d-c780ff17ab5b,stands up,1.0,stands up,stands up
+466,471,bff1d1da-957f-42ea-8c98-61eaca98b5f1,9b65f2ca-4b7c-4f40-ad7d-c780ff17ab5b,stands up,1.0,stands up,stands up
+3035,3040,b8952ddf-dd75-4d30-99f2-4e93a286abda,2ade2d2a-698c-42bd-9f03-da10b27e4d91,stands up,1.0,stands up,stands up
+3,8,0fe191ef-c28a-422c-aede-46f8aa8532a6,b8e58ae7-0ec8-40ec-9806-b5b4b9715ebe,stands up,1.0,stands up,stands up
+135,140,6fab4528-101a-4a4b-bb90-a2a155a0bddb,a4a3255f-d811-4c23-b09b-c70cd49bd226,stands up,1.0,stands up,stands up
+133,138,a869ed3c-901d-4328-99f0-9b446822a412,8868627b-aa9b-437f-9b84-2279ab350cda,stands up,1.0,stands up,stands up
+429,434,5970d966-cbd4-4fc0-8590-bffc9935bf10,78f79b23-f077-474a-b52c-5730ffed3fcf,stands up,1.0,stands up,stands up
+240,245,f7f7d2ae-5d75-4447-934d-1573f95b8f81,42f4c6df-e004-4f6b-b177-6955887db5b2,stands up,1.0,stands up,stands up
+1863,1868,6442d14c-c02a-4b90-bd52-8b3c187b851b,6f720b22-a72d-431f-b812-c687414a53a4,stands up,1.0,stands up,stands up
+359,364,cce95cd8-188e-4d6b-996f-07f58fc9d117,b6e57326-5688-4440-94bc-54e531ddcdfe,stands up,1.0,stands up,stands up
+1725,1730,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,780a3c13-9c99-4b34-ae6a-d085e47debc7,stands up,1.0,stands up,stands up
+631,636,56e92c65-c82e-413b-aaf9-26a0dd5fbbe2,892aff86-8e77-460d-8b20-5e1138238319,stands up,1.0,stands up,stands up
+3546,3551,a0fb8289-7d55-4af3-9d2b-2b3e4a12ab65,84f83d89-830a-429c-be82-52b976cf159f,stands up,1.0,stands up,stands up
+1186,1191,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,0c519aa5-d2f4-4595-8807-0ff42427d91f,stands up,1.0,stands up,stands up
+6,11,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,b3deb736-f5a3-4e68-a85a-bda1a835a214,stands up,1.0,stands up,stands up
+1695,1700,8e9ce0c8-9a8f-414d-b3c4-cebd0fd1d85b,e4002139-bf1f-40f7-aefb-5d33d9f7dfb7,stands up,1.0,stands up,stands up
+3590,3595,a0fb8289-7d55-4af3-9d2b-2b3e4a12ab65,84f83d89-830a-429c-be82-52b976cf159f,stands up,1.0,stands up,stands up
+136,141,a869ed3c-901d-4328-99f0-9b446822a412,8868627b-aa9b-437f-9b84-2279ab350cda,stands up,1.0,stands up,stands up
+423,428,bff1d1da-957f-42ea-8c98-61eaca98b5f1,9b65f2ca-4b7c-4f40-ad7d-c780ff17ab5b,stands up,1.0,stands up,stands up
+268,273,6fab4528-101a-4a4b-bb90-a2a155a0bddb,a4a3255f-d811-4c23-b09b-c70cd49bd226,stands up,1.0,stands up,stands up
+240,245,f7f7d2ae-5d75-4447-934d-1573f95b8f81,196c2b08-21de-4b8b-9637-bc015ba8a941,stands up,1.0,stands up,stands up
+329,334,cce95cd8-188e-4d6b-996f-07f58fc9d117,b6e57326-5688-4440-94bc-54e531ddcdfe,stands up,1.0,stands up,stands up
+299,304,f3d921fe-d7d8-4c09-98fd-7850154d73dc,440cb546-d63b-4e56-b9e4-121a2ff3886d,stands up,1.0,stands up,stands up
+844,849,7b277350-9926-42ef-b5f7-3ee000f3350a,4131c77a-0139-425e-8daf-a75c2c034e65,stands up,1.0,stands up,stands up
+2380,2385,538c2f0a-f89e-47b5-b012-047a1b98de27,bc72b8e2-d0da-4b81-b942-c3e87be7e639,stands up,1.0,stands up,stands up
+45,50,d933aa04-7b9f-419d-8d70-a3bebeca6c34,1586cac8-7e6f-4397-ab55-35fe878bfda3,stands up,1.0,stands up,stands up
+565,570,cf90f24b-32de-452a-b154-03ca5e47099a,6075d7ef-80b7-4f65-8b21-31d390443492,stands up,1.0,stands up,stands up
+1143,1148,8698a0ea-f434-49f9-a8e4-45220e5d4b2c,0c519aa5-d2f4-4595-8807-0ff42427d91f,stands up,1.0,stands up,stands up
+1283,1288,51617b89-1624-465a-8aa5-f664e29d7771,d2cb049d-7c0a-4a9c-9543-aed9b9cc522f,stands up,1.0,stands up,stands up
+569,574,56e92c65-c82e-413b-aaf9-26a0dd5fbbe2,892aff86-8e77-460d-8b20-5e1138238319,stands up,1.0,stands up,stands up
+411,416,406dd4ef-ac1e-48cc-be05-40dab5979549,d1427ec3-25c5-4cc7-ad96-ed747c7752b6,stands up,1.0,stands up,stands up
+165,170,5f7c489b-bfa0-4aa7-b707-45d12b2b114a,cf844028-55e8-4019-bc89-e01e88532b3c,stands up,1.0,stands up,stands up
+3456,3461,cf7c12db-1a9e-46d3-96d6-38174bbe373c,fdfb168b-5552-45b8-9380-7a699ab49db7,stands up,1.0,stands up,stands up
+2981,2986,06456897-960d-4d0c-8ce2-cd50a5a57bc3,8c62fa72-c319-4abf-90cf-4ad69fa367bb,stands up,1.0,stands up,stands up
+140,145,c80584bf-4405-45e8-9e8b-4818b15b0ca1,9e18412e-0c12-4f2f-a1cc-e50a9317a4cc,stands up,1.0,stands up,stands up
+186,191,6442d14c-c02a-4b90-bd52-8b3c187b851b,754005cb-3a06-4621-bddf-f1b438c986e8,stands up,1.0,stands up,stands up
+2975,2980,b8952ddf-dd75-4d30-99f2-4e93a286abda,52c90462-a2ff-4500-a7ef-f9dde44ece6e,stands up,1.0,stands up,stands up
+400,405,f3d921fe-d7d8-4c09-98fd-7850154d73dc,440cb546-d63b-4e56-b9e4-121a2ff3886d,stands up,1.0,stands up,stands up
+4546,4551,652f0590-aab5-4de1-b578-238adb54fa0e,c600a5c4-b1e9-4221-a869-26259012ea0f,stands up,1.0,stands up,stands up
+630,635,6fab4528-101a-4a4b-bb90-a2a155a0bddb,30f0bbee-932a-4d6d-8be2-2ca6751975c2,stands up,1.0,stands up,stands up
+141,146,a869ed3c-901d-4328-99f0-9b446822a412,8868627b-aa9b-437f-9b84-2279ab350cda,stands up,1.0,stands up,stands up
+265,270,cce95cd8-188e-4d6b-996f-07f58fc9d117,8642fa00-0ad1-475b-8ce2-3d536f3303c9,stands up,1.0,stands up,stands up
+454,459,0928af96-a3fd-4930-9bc1-2fa43d01bb53,7625f930-beec-4deb-a10e-a75796d7d8c6,stands up,1.0,stands up,stands up
+2727,2732,b8952ddf-dd75-4d30-99f2-4e93a286abda,eb9b39ae-15c2-4bc7-9db3-9192f7d16081,stands up,1.0,stands up,stands up
+594,599,56e92c65-c82e-413b-aaf9-26a0dd5fbbe2,892aff86-8e77-460d-8b20-5e1138238319,stands up,1.0,stands up,stands up
+263,268,cce95cd8-188e-4d6b-996f-07f58fc9d117,8642fa00-0ad1-475b-8ce2-3d536f3303c9,stands up,1.0,stands up,stands up
+2815,2820,b8952ddf-dd75-4d30-99f2-4e93a286abda,52c90462-a2ff-4500-a7ef-f9dde44ece6e,stands up,1.0,stands up,stands up
+3003,3008,06456897-960d-4d0c-8ce2-cd50a5a57bc3,8c62fa72-c319-4abf-90cf-4ad69fa367bb,stands up,1.0,stands up,stands up
+0,5,8d3337ba-61a1-4c23-abb3-2728ba21adad,40831117-c286-4da2-bac2-649da0d39a6b,stands up,1.0,stands up,stands up
+480,485,bff1d1da-957f-42ea-8c98-61eaca98b5f1,9b65f2ca-4b7c-4f40-ad7d-c780ff17ab5b,stands up,1.0,stands up,stands up
+11,16,f00d5909-4828-4475-be3a-474b12c9eccf,7508089b-ca98-4158-a2e6-6ab509dab8b4,stands up,1.0,stands up,stands up
+2752,2757,b8952ddf-dd75-4d30-99f2-4e93a286abda,52c90462-a2ff-4500-a7ef-f9dde44ece6e,stands up,1.0,stands up,stands up
+28,33,f00d5909-4828-4475-be3a-474b12c9eccf,7508089b-ca98-4158-a2e6-6ab509dab8b4,stands up right,0.8995516667721832,stands up,stands up
+2157,2162,63d5d643-d8e2-4293-b7d6-fb9c4657a12a,25cf07b3-8d23-48bb-9680-4032fe00b789,stands,0.8191388174612029,stands up,stands up
+337,342,97dcbd5f-6f17-4208-8129-0dbd5a9ff89d,d3273dc0-df60-48c1-b5f4-fcbd6002cc7e,c c stands,0.8191388174612029,stands up,stands up
+968,973,56d0a3e8-58c0-4d4d-b1a8-097b8cabcc95,fb789549-19f3-4b35-b397-1e35cce474bb,stands,0.8191388174612029,stands up,stands up
+978,983,6fab4528-101a-4a4b-bb90-a2a155a0bddb,bb4cca8b-5336-4118-8d4f-eb89425c118a,stands,0.8191388174612029,stands up,stands up
+500,505,b2017f8e-32fd-4b52-81e1-1b287b6fd9c6,b5c72847-c330-4d37-bf23-4658f573288c,stands,0.8191388174612029,stands up,stands up
+1319,1324,228eb02a-6c89-4aa0-9cd4-0cdab1550c83,af9d1462-1f84-49f6-a0c7-49e395a7a660,c c stands,0.8191388174612029,stands up,stands up
+2714,2719,4dd9015c-6d8c-4b64-b5ed-e284226b738a,15d59199-ba59-4de5-ae9f-4eb397adf293,stands,0.8191388174612029,stands up,stands up
+527,532,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,dea449ce-090e-44e9-885e-735328ee189d,c c stands,0.8191388174612029,stands up,stands up
+1151,1156,63d5d643-d8e2-4293-b7d6-fb9c4657a12a,7088d9b0-5212-4bef-9f7a-d1babf7e4f36,stands,0.8191388174612029,stands up,stands up
+128,133,46f5a400-654f-4aa3-8185-da5ea97bc1a6,d41f94b6-a66d-42d3-a8d2-2ebd3e814af9,stands,0.8191388174612029,stands up,stands up
+135,140,ae9cb412-7b93-49ae-bb46-306dc74d5fe3,2992bd9b-6d37-4b2b-b661-779b4080a8e3,stands,0.8191388174612029,stands up,stands up
+3071,3076,0793bbe0-b8d5-4d46-9f02-c71d1bd4fad2,69e1ecf9-d531-441c-8cdf-2412d3c41315,c c stands,0.8191388174612029,stands up,stands up
+242,247,1a58c3e1-e04c-40eb-974b-379773a18736,8b3ab9b6-a2e3-45ba-8d7f-e4c557fe701e,stands,0.8191388174612029,stands up,stands up
+232,237,bff1d1da-957f-42ea-8c98-61eaca98b5f1,65961b84-d1ec-410a-8392-f4999ec8f383,stands,0.8191388174612029,stands up,stands up
+51,56,4a3fe6c1-bfdc-4bbb-a430-3cc19fbd484b,caf06204-6460-4ab5-ae70-bc8fc8766c4a,stands,0.8191388174612029,stands up,stands up
+1110,1115,bedaa131-deae-4279-9fd4-5b6ab552644c,7464bf5c-1a25-48d8-8441-ac6ecb6cac99,stands,0.8191388174612029,stands up,stands up
+1422,1427,3e7e162a-1cb3-4bdc-b6c2-e14845298360,13a238d1-d067-4634-b7cb-b3a06543a2fc,stands,0.8191388174612029,stands up,stands up
+1636,1641,54843f87-c3c1-40a3-910e-5e72540995d5,287202e7-b70c-402b-8511-3c1e13718c92,stands,0.8191388174612029,stands up,stands up
+268,273,9b45530e-a510-44d8-81fc-afc8252eccdf,e994bc41-b00b-4ff6-8360-af3a3540b158,c c stands,0.8191388174612029,stands up,stands up
+1177,1182,10019839-9ded-439f-a573-5ccacd7d829d,3bf9ccab-ca88-4e56-9881-b79d845bbbc7,stands,0.8191388174612029,stands up,stands up
+563,568,9b45530e-a510-44d8-81fc-afc8252eccdf,438d62a5-d21a-4e63-b8d1-a8acde0b47e2,c c stands,0.8191388174612029,stands up,stands up
+1956,1961,eebb7a06-e9ce-4982-92dc-ec4a5d74d725,333b3673-050a-483e-a385-3511b937de50,stands,0.8191388174612029,stands up,stands up
+249,254,46f5a400-654f-4aa3-8185-da5ea97bc1a6,d41f94b6-a66d-42d3-a8d2-2ebd3e814af9,stands,0.8191388174612029,stands up,stands up
+825,830,9c59e912-2340-4400-b2df-7db3d4066723,ef1db807-4d3b-43e7-93d4-a1cb4b6e636d,c c stands,0.8191388174612029,stands up,stands up
+1121,1126,9b45530e-a510-44d8-81fc-afc8252eccdf,5e458004-f393-4ccc-901b-a2870df4e21d,c c stands,0.8191388174612029,stands up,stands up
+46,51,d51a0b73-1ad7-4d4e-be99-714f6637668a,7a5e841f-cb9c-4ef3-b687-e2c432af3980,stands,0.8191388174612029,stands up,stands up
+2723,2728,06456897-960d-4d0c-8ce2-cd50a5a57bc3,5a478c1f-4fc5-4dfe-bb6c-2e0b6dcbcc35,stands,0.8191388174612029,stands up,stands up
+267,272,4a3fe6c1-bfdc-4bbb-a430-3cc19fbd484b,caf06204-6460-4ab5-ae70-bc8fc8766c4a,stands,0.8191388174612029,stands up,stands up
+942,947,0a09f8fc-ff87-4210-b682-d2ae38af33eb,1724ba14-ca40-4ad0-8a6f-4e46713b09be,stands,0.8191388174612029,stands up,stands up
+381,386,2481f41b-fdff-4c32-b273-80c776c8eafd,1e3576ec-61d7-4eeb-b217-f327bd9f459d,stands,0.8191388174612029,stands up,stands up
+905,910,0a09f8fc-ff87-4210-b682-d2ae38af33eb,1724ba14-ca40-4ad0-8a6f-4e46713b09be,stands,0.8191388174612029,stands up,stands up
+263,268,f9f1adf2-443e-4af9-bbf8-2aa97a03c7c8,5e7a06f0-c3fc-4e43-ab00-03758385623a,stands,0.8191388174612029,stands up,stands up
+283,288,f9f1adf2-443e-4af9-bbf8-2aa97a03c7c8,b0c90c70-a886-4664-864b-3d3a3ae4e09b,stands,0.8191388174612029,stands up,stands up
+24,29,4884c61e-a61b-4ba6-8071-4314c6c217b6,be011b1c-0429-4322-afe5-6da064fae56c,c c stands,0.8191388174612029,stands up,stands up
+2362,2367,9c59e912-2340-4400-b2df-7db3d4066723,3d6f7ea4-c1fd-47c5-b778-1826c8f639a4,c c stands,0.8191388174612029,stands up,stands up
+850,855,0a09f8fc-ff87-4210-b682-d2ae38af33eb,1724ba14-ca40-4ad0-8a6f-4e46713b09be,stands,0.8191388174612029,stands up,stands up
+406,411,56d0a3e8-58c0-4d4d-b1a8-097b8cabcc95,cef9f9fc-cfb1-478f-96da-7dcddc950ca0,stands,0.8191388174612029,stands up,stands up
+40,45,05e8b510-0973-4cbd-9a23-bf2c156b7958,47a57cc2-506e-4da5-b4be-139003c16945,stands,0.8191388174612029,stands up,stands up
+2516,2521,9b45530e-a510-44d8-81fc-afc8252eccdf,76a4098a-0b3b-41b1-a935-7656593a94a7,c c stands,0.8191388174612029,stands up,stands up
+780,785,b148c2bd-349a-4c3d-af5c-6791c300bea9,48b499f9-7133-485e-b8d2-edc10b92c26d,stands,0.8191388174612029,stands up,stands up
+2980,2985,06456897-960d-4d0c-8ce2-cd50a5a57bc3,5a478c1f-4fc5-4dfe-bb6c-2e0b6dcbcc35,stands,0.8191388174612029,stands up,stands up
+2415,2420,9b45530e-a510-44d8-81fc-afc8252eccdf,e0d9a07a-20db-4eff-b00f-7e1e2d0c0cac,c c stands,0.8191388174612029,stands up,stands up
+211,216,b2ebded2-4c94-473d-b9e4-8dd3556a3152,f07a5923-7204-4532-b0b6-da69636cb0e1,stands,0.8191388174612029,stands up,stands up
+2838,2843,06456897-960d-4d0c-8ce2-cd50a5a57bc3,5a478c1f-4fc5-4dfe-bb6c-2e0b6dcbcc35,stands,0.8191388174612029,stands up,stands up
+213,218,23a1b043-771f-4769-916a-34163f2ea2ef,64e8d7dd-e758-4d60-8a47-c58d6b1aab3e,stands,0.8191388174612029,stands up,stands up
+950,955,56d0a3e8-58c0-4d4d-b1a8-097b8cabcc95,fb789549-19f3-4b35-b397-1e35cce474bb,stands,0.8191388174612029,stands up,stands up
+0,5,053ae0a6-937d-4bdc-8001-d3dfe7899811,4e442a84-42a3-4437-bfbc-c2a706f4cfa9,stands,0.8191388174612029,stands up,stands up
+3568,3573,114cdc4b-4ae5-4938-8218-151e1e35b3db,73aab189-5310-4d0f-82e6-4df48447312e,stands,0.8191388174612029,stands up,stands up
+1149,1154,20400762-1e47-462d-a7d1-64a1b162b1f9,2406d378-64e2-474b-85c5-ccf6ffa63b5f,stands,0.8191388174612029,stands up,stands up
+101,106,2a00e878-bd87-4d39-91c4-f27fcb7b5feb,6c67fede-efa2-4ebd-b536-9bf2b9fc2fb4,stands,0.8191388174612029,stands up,stands up
+1707,1712,546e4806-a7f5-46bd-bf65-7737db2c5594,ad125d49-5ae9-47a2-be38-57ab6a84771f,stands,0.8191388174612029,stands up,stands up
+192,197,2a00e878-bd87-4d39-91c4-f27fcb7b5feb,6c67fede-efa2-4ebd-b536-9bf2b9fc2fb4,stands,0.8191388174612029,stands up,stands up
+3452,3457,cf7c12db-1a9e-46d3-96d6-38174bbe373c,ddeab209-7d51-4e84-bbaf-f0f5fa5b7d03,stands,0.8191388174612029,stands up,stands up
+819,824,9c59e912-2340-4400-b2df-7db3d4066723,ef1db807-4d3b-43e7-93d4-a1cb4b6e636d,c c stands,0.8191388174612029,stands up,stands up
+41,46,05e8b510-0973-4cbd-9a23-bf2c156b7958,3d0766e1-6684-40a2-acfc-5607a6278018,stands,0.8191388174612029,stands up,stands up
+2096,2101,9b45530e-a510-44d8-81fc-afc8252eccdf,7bcd717d-9b92-40cf-8bc4-5ba90ec235e6,c c stands,0.8191388174612029,stands up,stands up
+370,375,84995fe3-7ade-4075-932d-274f167c27e1,28f7489b-65f4-4ca9-9160-2f682abde983,stands,0.8191388174612029,stands up,stands up
+872,877,45bf438d-0cbb-40b8-be95-58204bb3c6fe,dab4e87c-1b9c-4f4c-8d38-939866f0836a,stands,0.8191388174612029,stands up,stands up
+1412,1417,9b45530e-a510-44d8-81fc-afc8252eccdf,450a23fb-2f39-4a95-9000-1b63865598a2,c c stands,0.8191388174612029,stands up,stands up
+428,433,5970d966-cbd4-4fc0-8590-bffc9935bf10,5fef4dc8-ee18-41f0-8afb-a55ecadf62e3,c c stands,0.8191388174612029,stands up,stands up
+235,240,1680e3e9-d3fc-4903-94d8-aa8e74016d74,56bb0a93-c97f-4ad5-8d83-807d190f0a52,stands,0.8191388174612029,stands up,stands up
+17,22,b2ebded2-4c94-473d-b9e4-8dd3556a3152,f07a5923-7204-4532-b0b6-da69636cb0e1,stands,0.8191388174612029,stands up,stands up
+2029,2034,e6b7692d-5e35-4524-8d2a-385475b95806,123dd745-1a15-4731-a835-52ede8ce3f24,stands,0.8191388174612029,stands up,stands up
+483,488,000cd456-ff8d-499b-b0c1-4acead128a8b,620cfc70-b922-40d8-ac0a-5ba945461a12,stands,0.8191388174612029,stands up,stands up
+1198,1203,5fa671a8-c6c9-40bc-9d3d-f97d94133965,b4fd79c4-3df0-4735-8a6d-48fb4b8b7d7d,stands,0.8191388174612029,stands up,stands up
+1645,1650,9b45530e-a510-44d8-81fc-afc8252eccdf,cd628fb0-7b47-43b5-a316-44a92686fd9d,c c stands,0.8191388174612029,stands up,stands up
+1347,1352,9c59e912-2340-4400-b2df-7db3d4066723,26b1663d-5679-4a34-b29d-7274c8874b64,c c stands,0.8191388174612029,stands up,stands up
+1840,1845,9b45530e-a510-44d8-81fc-afc8252eccdf,cd628fb0-7b47-43b5-a316-44a92686fd9d,c c stands,0.8191388174612029,stands up,stands up
+795,800,63f0f27d-645c-4efc-9162-6f0cb0353bc8,46f57c5c-93c4-4bf9-8206-311e2fd8b55a,stands,0.8191388174612029,stands up,stands up
+276,281,1680e3e9-d3fc-4903-94d8-aa8e74016d74,56bb0a93-c97f-4ad5-8d83-807d190f0a52,stands,0.8191388174612029,stands up,stands up
+2771,2776,06456897-960d-4d0c-8ce2-cd50a5a57bc3,5a478c1f-4fc5-4dfe-bb6c-2e0b6dcbcc35,stands,0.8191388174612029,stands up,stands up
+781,786,000cd456-ff8d-499b-b0c1-4acead128a8b,84adfd09-06d4-46b2-b23c-670b5813d479,stands,0.8191388174612029,stands up,stands up
+314,319,84ccc9f7-8e02-4bfd-bd44-1658814df7cc,dea449ce-090e-44e9-885e-735328ee189d,c c stands,0.8191388174612029,stands up,stands up
+47,52,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+1894,1899,3b021bad-6945-4be2-a7db-44af3db1eae8,e64b52d0-3bf5-47c2-a1c1-056d75aa9b2a,stands,0.8191388174612029,stands up,stands up
+887,892,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,1c9d4d49-bb55-4bd9-b1de-fc76ec5e41d3,stands,0.8191388174612029,stands up,stands up
+626,631,0cb2dd94-afb1-4e30-a62f-724f34d81777,e0ab70d8-0020-4977-bd72-0b0ad8e16427,stands,0.8191388174612029,stands up,stands up
+920,925,ab875220-cd6c-410d-8fbc-94742e51e775,b6a2532a-6e1b-4508-835f-1c36144f362b,c c stands,0.8191388174612029,stands up,stands up
+934,939,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,1c9d4d49-bb55-4bd9-b1de-fc76ec5e41d3,stands,0.8191388174612029,stands up,stands up
+946,951,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,1c9d4d49-bb55-4bd9-b1de-fc76ec5e41d3,stands,0.8191388174612029,stands up,stands up
+959,964,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,1c9d4d49-bb55-4bd9-b1de-fc76ec5e41d3,stands,0.8191388174612029,stands up,stands up
+584,589,0cb2dd94-afb1-4e30-a62f-724f34d81777,e0ab70d8-0020-4977-bd72-0b0ad8e16427,stands,0.8191388174612029,stands up,stands up
+844,849,6442d14c-c02a-4b90-bd52-8b3c187b851b,68c972b6-aac9-4d96-b9c5-155a0fe7aad1,stands,0.8191388174612029,stands up,stands up
+853,858,6442d14c-c02a-4b90-bd52-8b3c187b851b,68c972b6-aac9-4d96-b9c5-155a0fe7aad1,stands,0.8191388174612029,stands up,stands up
+1645,1650,9b45530e-a510-44d8-81fc-afc8252eccdf,513638ae-87dc-4067-8edf-fa75bdc70f01,stands,0.8191388174612029,stands up,stands up
+867,872,6442d14c-c02a-4b90-bd52-8b3c187b851b,68c972b6-aac9-4d96-b9c5-155a0fe7aad1,stands,0.8191388174612029,stands up,stands up
+987,992,6442d14c-c02a-4b90-bd52-8b3c187b851b,68c972b6-aac9-4d96-b9c5-155a0fe7aad1,stands,0.8191388174612029,stands up,stands up
+637,642,6099730e-7a7c-41ce-8266-83a9f00cacec,92f0df8c-d372-441c-8a15-dfa8a9f51901,stands,0.8191388174612029,stands up,stands up
+1086,1091,6442d14c-c02a-4b90-bd52-8b3c187b851b,68c972b6-aac9-4d96-b9c5-155a0fe7aad1,stands,0.8191388174612029,stands up,stands up
+1720,1725,0b703793-134a-4889-bc40-c19328d8f7cd,4bbcb18f-dd80-4a6b-a75a-4c0c50710784,stands,0.8191388174612029,stands up,stands up
+68,73,07b357ce-0bce-4d5e-b7ab-c16f1d4c7de6,5990faa1-db4c-42de-a066-01f00cbc101d,stands,0.8191388174612029,stands up,stands up
+1412,1417,9b45530e-a510-44d8-81fc-afc8252eccdf,5b3a3c2c-59ff-4370-a80c-9ffe8a4ec7b2,stands,0.8191388174612029,stands up,stands up
+7,12,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+15,20,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+32,37,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+75,80,2ca764bf-10d3-4a76-8ec2-e7eec63c6e34,77bc93e6-b889-47a8-b678-f3e12ae32989,stands,0.8191388174612029,stands up,stands up
+85,90,8996ece6-f2c1-49c4-aab7-fee6c30f2ca2,cf33d4a1-cd37-4deb-8e12-7f5b95a70361,stands,0.8191388174612029,stands up,stands up
+747,752,692e9866-1d35-4898-b708-1982d86f4dfb,3d853433-918d-45d2-9e2a-b20bbf4521ab,stands,0.8191388174612029,stands up,stands up
+2340,2345,1fae6ecb-2ad9-4160-b388-c34e7d018915,89f565ff-412c-461c-a4e8-9b0bfa8b94c9,stands,0.8191388174612029,stands up,stands up
+813,818,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,5de147df-8f21-4f23-85b0-0eced6fd03ec,stands,0.8191388174612029,stands up,stands up
+1742,1747,ab875220-cd6c-410d-8fbc-94742e51e775,6c7328de-69ef-4af5-8b36-5c91ce949ed0,c c stands,0.8191388174612029,stands up,stands up
+118,123,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,2ebd505d-a5e8-4ece-8eca-e4ca031819a6,stands,0.8191388174612029,stands up,stands up
+143,148,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,2ebd505d-a5e8-4ece-8eca-e4ca031819a6,stands,0.8191388174612029,stands up,stands up
+247,252,692e9866-1d35-4898-b708-1982d86f4dfb,85fc37f0-382f-4aac-afad-f2934bc05fff,stands,0.8191388174612029,stands up,stands up
+1280,1285,ab875220-cd6c-410d-8fbc-94742e51e775,7475370f-0722-465b-a147-90353da74db9,c c stands,0.8191388174612029,stands up,stands up
+3676,3681,c645ddf0-1efc-4c0a-bf58-889ea519b254,409b7709-0b64-4c5a-9f08-101b773dd98a,stands,0.8191388174612029,stands up,stands up
+203,208,692e9866-1d35-4898-b708-1982d86f4dfb,85fc37f0-382f-4aac-afad-f2934bc05fff,stands,0.8191388174612029,stands up,stands up
+1007,1012,28fe3d66-382b-425a-8409-3cf17f5c8670,6dd30389-656a-4cb6-b192-b26cbc4a7982,stands,0.8191388174612029,stands up,stands up
+286,291,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,b96cecbc-f04f-4bc8-90ef-cd65720fb62c,stands,0.8191388174612029,stands up,stands up
+295,300,8996ece6-f2c1-49c4-aab7-fee6c30f2ca2,6e55f6c3-7480-4b68-8836-f7ca82d54f72,stands,0.8191388174612029,stands up,stands up
+300,305,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,b96cecbc-f04f-4bc8-90ef-cd65720fb62c,stands,0.8191388174612029,stands up,stands up
+23,28,7c06d1c2-d3b2-43b0-86ab-e0963df16dc5,009613f2-144b-4877-886c-4eaa654e5f60,stands,0.8191388174612029,stands up,stands up
+2516,2521,9b45530e-a510-44d8-81fc-afc8252eccdf,2d660484-3afd-4eaf-ad01-5ad0ddf4e3d5,stands,0.8191388174612029,stands up,stands up
+20,25,de19da07-f1b9-430e-91fb-14323ef27eb1,8ca62704-6c11-49ff-a1e7-670f6ea08af6,stands,0.8191388174612029,stands up,stands up
+521,526,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,b96cecbc-f04f-4bc8-90ef-cd65720fb62c,stands,0.8191388174612029,stands up,stands up
+1280,1285,2ca764bf-10d3-4a76-8ec2-e7eec63c6e34,0d626636-0fd9-43a8-a606-9a16f6663e03,stands,0.8191388174612029,stands up,stands up
+1316,1321,2ca764bf-10d3-4a76-8ec2-e7eec63c6e34,0d626636-0fd9-43a8-a606-9a16f6663e03,stands,0.8191388174612029,stands up,stands up
+612,617,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,5de147df-8f21-4f23-85b0-0eced6fd03ec,stands,0.8191388174612029,stands up,stands up
+640,645,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,5de147df-8f21-4f23-85b0-0eced6fd03ec,stands,0.8191388174612029,stands up,stands up
+794,799,63f0f27d-645c-4efc-9162-6f0cb0353bc8,2d9de017-0ae1-4157-974d-f9e33b026d08,stands,0.8191388174612029,stands up,stands up
+5,10,09c98c4f-dc2a-429b-8afa-624211cd4bfd,013b47cb-e5cb-45a4-8996-1792b3b25e52,stands,0.8191388174612029,stands up,stands up
+1920,1925,6442d14c-c02a-4b90-bd52-8b3c187b851b,7f466a53-baaf-4892-af07-8de930af6120,stands,0.8191388174612029,stands up,stands up
+759,764,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,5de147df-8f21-4f23-85b0-0eced6fd03ec,stands,0.8191388174612029,stands up,stands up
+39,44,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+88,93,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,2ebd505d-a5e8-4ece-8eca-e4ca031819a6,stands,0.8191388174612029,stands up,stands up
+52,57,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+1428,1433,2f77c6e3-3751-44ea-887f-2c8caf9c6485,d38238a2-ab93-40bf-927b-502606a33319,c c stands,0.8191388174612029,stands up,stands up
+1200,1205,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,584a0f13-8856-423d-ba5e-d9f9b78d54bc,stands,0.8191388174612029,stands up,stands up
+3746,3751,c645ddf0-1efc-4c0a-bf58-889ea519b254,409b7709-0b64-4c5a-9f08-101b773dd98a,stands,0.8191388174612029,stands up,stands up
+641,646,2f77c6e3-3751-44ea-887f-2c8caf9c6485,6c63d2ca-69ff-4db2-bf32-4b90cf872de2,c c stands,0.8191388174612029,stands up,stands up
+702,707,2f77c6e3-3751-44ea-887f-2c8caf9c6485,6c63d2ca-69ff-4db2-bf32-4b90cf872de2,c c stands,0.8191388174612029,stands up,stands up
+1921,1926,6442d14c-c02a-4b90-bd52-8b3c187b851b,12adf50c-6060-4b0a-bf69-b49b1eca2a98,stands,0.8191388174612029,stands up,stands up
+731,736,2f77c6e3-3751-44ea-887f-2c8caf9c6485,6c63d2ca-69ff-4db2-bf32-4b90cf872de2,c c stands,0.8191388174612029,stands up,stands up
+1627,1632,6442d14c-c02a-4b90-bd52-8b3c187b851b,ad02c916-9112-45e4-ad83-6bfcb847e77c,stands,0.8191388174612029,stands up,stands up
+1232,1237,2f77c6e3-3751-44ea-887f-2c8caf9c6485,55df20f6-23ec-4b8f-aff4-9af6e2c75cc8,c c stands,0.8191388174612029,stands up,stands up
+391,396,f522ce65-50a9-4119-9d49-57c32dea58f7,60381729-6fd5-4bb6-9799-d4759bcdcd97,stands,0.8191388174612029,stands up,stands up
+1994,1999,6442d14c-c02a-4b90-bd52-8b3c187b851b,12adf50c-6060-4b0a-bf69-b49b1eca2a98,stands,0.8191388174612029,stands up,stands up
+642,647,07b357ce-0bce-4d5e-b7ab-c16f1d4c7de6,e4e962f5-739e-4086-b454-bb5a09f6fc89,stands,0.8191388174612029,stands up,stands up
+234,239,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+1665,1670,0b703793-134a-4889-bc40-c19328d8f7cd,4bbcb18f-dd80-4a6b-a75a-4c0c50710784,stands,0.8191388174612029,stands up,stands up
+2030,2035,6442d14c-c02a-4b90-bd52-8b3c187b851b,12adf50c-6060-4b0a-bf69-b49b1eca2a98,stands,0.8191388174612029,stands up,stands up
+227,232,2f77c6e3-3751-44ea-887f-2c8caf9c6485,c0a21a51-a810-4efc-9d42-978f761e31e0,c c stands,0.8191388174612029,stands up,stands up
+697,702,8491af2d-7226-4563-adcc-1e06da2cd763,d0cdf952-5554-4aa5-8bb4-236c0daffd6e,stands,0.8191388174612029,stands up,stands up
+113,118,a774ee38-7f06-4733-8b76-1fb07f95dcf4,ba67add5-e10a-4124-8e7a-7ff60dd50c3f,stands up on the floor,0.8090175837308201,stands up,stands up
+569,574,cd8282c8-528e-4da8-97d2-2987ca818ff0,3c533277-435b-4e5d-be21-1d86d5826c29,stands up on the floor,0.8090175837308201,stands up,stands up
+1026,1031,6fab4528-101a-4a4b-bb90-a2a155a0bddb,bb4cca8b-5336-4118-8d4f-eb89425c118a,sits down,1.0,sits down,stands up
+2138,2143,eb2c9739-dba0-479c-81b7-9dda51c4ac20,49045068-1be9-4267-8239-b840189cec0a,sits down,1.0,sits down,stands up
+1456,1461,eb2c9739-dba0-479c-81b7-9dda51c4ac20,3a1eaf37-75f6-4a84-aadf-1a2caf6817cf,sits down,1.0,sits down,stands up
+2277,2282,f9ce56a3-3e9b-4edd-b133-c05eed792ec0,85dc0279-8b20-4aac-99ce-0a2fc89b1504,sits down,1.0,sits down,stands up
+351,356,cd4cf777-fa95-4226-9453-f00ce43fe323,791f7eff-8f9f-49a3-8413-b741c640267d,sits down,1.0,sits down,stands up
+497,502,63f0f27d-645c-4efc-9162-6f0cb0353bc8,fc21472d-3dfd-4c17-9e31-69104c25acf6,sits down,1.0,sits down,stands up
+687,692,3b856ad7-6781-473a-b528-357dafb153ac,1c2e0c5d-e843-464e-afe2-cf024b6745db,sits down,1.0,sits down,stands up
+1193,1198,dafc3206-3b70-4f43-b386-e0d01a3516a7,def6663d-b638-41a8-a7e0-dd6953f1590d,sits down,1.0,sits down,stands up
+124,129,51617b89-1624-465a-8aa5-f664e29d7771,13c7702b-8c77-4138-be41-6740bd15c71e,sits down,1.0,sits down,stands up
+1352,1357,fb7cc35d-3272-44a4-b8f2-15cd24fa345b,c57de0c6-45f7-4297-a527-cb890d1dab89,sits down,1.0,sits down,stands up
+1164,1169,6442d14c-c02a-4b90-bd52-8b3c187b851b,d23be30c-f9a4-46b6-96de-0fc5d8004d18,sits down,1.0,sits down,stands up
+1825,1830,8e9ce0c8-9a8f-414d-b3c4-cebd0fd1d85b,e4002139-bf1f-40f7-aefb-5d33d9f7dfb7,sits down,1.0,sits down,stands up
+970,975,3ce27068-44ba-4593-aa26-444ce0616150,10c60987-417c-4dc8-b56d-02c8abff9510,sits down,1.0,sits down,stands up
+1193,1198,dafc3206-3b70-4f43-b386-e0d01a3516a7,33ed9818-62ec-4868-9db2-e266cb611195,sits down,1.0,sits down,stands up
+794,799,6442d14c-c02a-4b90-bd52-8b3c187b851b,ccc3569e-2dca-4cc4-99ad-bfafb54185af,sits down,1.0,sits down,stands up
+125,130,ebae32c1-6ad1-4b96-851c-166e1784d50a,a4743b93-6c3a-4c68-89b0-f80667de499a,sits down,1.0,sits down,stands up
+59,64,ebae32c1-6ad1-4b96-851c-166e1784d50a,a4743b93-6c3a-4c68-89b0-f80667de499a,sits down,1.0,sits down,stands up
+1489,1494,9d27c41b-d4d2-47a6-8334-1f930121e956,18e4788c-875c-4075-ae12-d73b8cedf222,sits down,1.0,sits down,stands up
+2419,2424,2f77c6e3-3751-44ea-887f-2c8caf9c6485,9c1d7f1c-4206-4da1-b782-27b1bd93cfa5,sits down,1.0,sits down,stands up
+1352,1357,fb7cc35d-3272-44a4-b8f2-15cd24fa345b,4d99ad0d-b666-4ea0-b834-9e92693181c4,sits down,1.0,sits down,stands up
+1155,1160,4ed53432-e1f5-4e3f-a614-ffcaff444aca,0da09b3e-61fe-419c-aadf-b42c1f6657ad,sits down,1.0,sits down,stands up
+3025,3030,9d27c41b-d4d2-47a6-8334-1f930121e956,ba275a5c-b314-4cd1-befa-3e17bd0c055d,sits down,1.0,sits down,stands up
+2279,2284,f9ce56a3-3e9b-4edd-b133-c05eed792ec0,01f6de4c-51b1-4a25-a06d-75edff1d54c5,sits down,1.0,sits down,stands up
+2168,2173,6c61d815-8ca2-41dd-b055-72abc1d6643a,1b9efcb3-24c1-44d0-8805-55266a912b88,sits down,1.0,sits down,stands up
+786,791,6fab4528-101a-4a4b-bb90-a2a155a0bddb,30f0bbee-932a-4d6d-8be2-2ca6751975c2,sits down,1.0,sits down,stands up
+437,442,6fab4528-101a-4a4b-bb90-a2a155a0bddb,8cfed02a-e31b-4ced-b2cd-01ee2251fa22,sits down,1.0,sits down,stands up
+787,792,6fab4528-101a-4a4b-bb90-a2a155a0bddb,a7697ebc-38d8-4c15-b0bf-f73fd49abae2,sits down,1.0,sits down,stands up
+674,679,6fab4528-101a-4a4b-bb90-a2a155a0bddb,a7697ebc-38d8-4c15-b0bf-f73fd49abae2,sits down,1.0,sits down,stands up
+205,210,6fab4528-101a-4a4b-bb90-a2a155a0bddb,0befb899-132b-4419-9905-956f089fa550,sits down,1.0,sits down,stands up
+1206,1211,04ac4c40-22fd-42aa-a7f0-ee597ffb7058,bb54d376-549e-4714-b556-c8571e394ba3,sits down,1.0,sits down,stands up
+76,81,d51cd3c2-dc8a-42ad-90c7-a130f6481b7d,bdf8bbf5-b51e-4d1a-bb40-75b33f3cf9b8,sits down,1.0,sits down,stands up
+535,540,d5a09f08-294d-446a-8f56-d3e09232039b,c43f469a-4ac7-4096-a32d-2d97cfd29cea,sits down,1.0,sits down,stands up
+2542,2547,4e1b12cd-710a-4979-8d91-a15424cb1fd6,d39cf3e5-35fe-4bd4-931c-82fa67bd3589,sits down,1.0,sits down,stands up
+3345,3350,652f0590-aab5-4de1-b578-238adb54fa0e,ff655c43-0501-44fd-9362-1ab2b5db0ef2,sits down,1.0,sits down,stands up
+177,182,2bb0e3ad-3a4d-4446-b3e8-3cfb86c43f7e,5c94c5e3-785f-4db3-9075-c9cae54d3f84,sits down,1.0,sits down,stands up
+177,182,2bb0e3ad-3a4d-4446-b3e8-3cfb86c43f7e,eba9390f-a9ed-46c5-879e-ab1c7e7c66e7,sits down,1.0,sits down,stands up
+2273,2278,9632b0a9-cf21-4773-b95b-83aae9a23d0a,eb452b71-e627-41fc-be6d-08b047edbff7,sits down,1.0,sits down,stands up
+3009,3014,b1b01372-64c3-4a6a-93fc-a86409f518ab,f0871e7a-72bb-4f9f-8b34-86cf1b383639,sits down,1.0,sits down,stands up
+1837,1842,33a9701c-625d-4500-8ef3-f39bd1f6dc1d,b7c24df4-c0b3-47f1-8841-6b7921289bff,c c sits down,1.0,sits down,stands up
+1566,1571,9b45530e-a510-44d8-81fc-afc8252eccdf,5b3a3c2c-59ff-4370-a80c-9ffe8a4ec7b2,sits down,1.0,sits down,stands up
+2240,2245,cf7c12db-1a9e-46d3-96d6-38174bbe373c,4e3864f0-dded-4926-bb0e-8b281361e44b,sits down,1.0,sits down,stands up
+46,51,e6351387-e982-4646-b719-d869b1ab61f0,68c60b51-d1ff-4730-986c-d24640a4ffde,sits down,1.0,sits down,stands up
+886,891,0d8a3e5c-4263-4f80-b32d-39d4f33008ba,04511f64-e4e6-450b-bf02-de58ae22551d,sits down,1.0,sits down,stands up
+630,635,eab37f2f-f512-4c2c-bbaf-4ced9eafba1b,3344d2b1-83a9-4c39-80f0-cfbb37bdacea,sits down,1.0,sits down,stands up
+0,5,29586f72-7e63-45aa-b4f1-38a6e615e46d,0e386dca-f11f-459e-8393-2c4bdbc50eb2,sits down,1.0,sits down,stands up
+29,34,23a1b043-771f-4769-916a-34163f2ea2ef,64e8d7dd-e758-4d60-8a47-c58d6b1aab3e,sits down,1.0,sits down,stands up
+17,22,cf90f24b-32de-452a-b154-03ca5e47099a,4b2fe701-1a9c-48c9-abb1-e9c90f65e85e,sits down,1.0,sits down,stands up
+123,128,71df0613-8aae-4951-adf9-678af774fcfb,272cb980-e4f5-44d1-b58b-647b7e984eef,sits down something,0.895702786377087,sits down,stands up
+866,871,55cf338b-c86b-4f6e-85fd-dc4b722d1967,1862cc6d-429a-44cb-9826-bcf9576e0e95,sits down something,0.895702786377087,sits down,stands up
+41,46,d1efe7af-5ab6-4867-8fbb-566c655ab1d8,93a0d0bc-f6e0-48fc-bc62-bc409aa0896c,sits,0.8485156864966058,sits down,stands up
+493,498,000cd456-ff8d-499b-b0c1-4acead128a8b,b8198886-375e-4656-8b16-8f1a75450b84,sits,0.8485156864966058,sits down,stands up
+0,5,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,2ebd505d-a5e8-4ece-8eca-e4ca031819a6,sits,0.8485156864966058,sits down,stands up
+764,769,466019aa-4c4c-415a-b8b6-a87c0a61fe8f,5de147df-8f21-4f23-85b0-0eced6fd03ec,sits,0.8485156864966058,sits down,stands up
+401,406,2481f41b-fdff-4c32-b273-80c776c8eafd,1e3576ec-61d7-4eeb-b217-f327bd9f459d,sits,0.8485156864966058,sits down,stands up
+815,820,63f0f27d-645c-4efc-9162-6f0cb0353bc8,46f57c5c-93c4-4bf9-8206-311e2fd8b55a,sits,0.8485156864966058,sits down,stands up
+63,68,ed31f134-b3f0-4f50-b8ae-d956b2f9ccfd,7afc7311-a9a1-497e-98cf-e83718273bef,sits,0.8485156864966058,sits down,stands up
+728,733,9b45530e-a510-44d8-81fc-afc8252eccdf,438d62a5-d21a-4e63-b8d1-a8acde0b47e2,c c sits,0.8485156864966058,sits down,stands up
+632,637,49bcf278-4879-4a6d-827e-252e824be525,76578a92-85d8-418f-9ebe-2082a623f1af,sits,0.8485156864966058,sits down,stands up
+1566,1571,9b45530e-a510-44d8-81fc-afc8252eccdf,450a23fb-2f39-4a95-9000-1b63865598a2,c c sits,0.8485156864966058,sits down,stands up
+265,270,7dd6f14c-bdc0-45cc-86c1-a2af2b61d177,4db87482-428b-4142-ba95-ae42b4ff38b6,sits down on the floor,0.8378887306070063,sits down,stands up

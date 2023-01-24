@@ -1,0 +1,12 @@
+version: 2.1
+jobs:
+  build-and-test:
+    docker:
+      - image: cimg/python:3.8
+    steps:
+      - checkout
+      
+workflows:
+  sample:
+    jobs:
+      - build-and-test

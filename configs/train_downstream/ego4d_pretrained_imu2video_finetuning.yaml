@@ -1,0 +1,24 @@
+# Params related to model initialization & data preprocessing
+# e.g. directly affecting the (inference) usage & behavior of the model
+model_hparams:
+  model_name: "downstream"
+  model_suffix: "pt_s_i_t_v_ie_mw2_w_5.0_master"
+  imu_encoder_name: "mw2"
+  video_encoder_name: "clip_1frame"
+  window_sec: 2.5
+  target_fps: 10
+
+# Params for the trainer
+train_hparams:
+  # For downstream tasks, only a single modality is supported for now
+  list_modalities: 
+    - "imu"
+  limit_train_batches: 1.0
+  batch_size: 32
+  max_epochs: 10
+  gpus: 1
+  num_workers_for_dm: 10
+  test_only: False
+  trainer_strategy: "ddp"
+  freeze_modality: False
+  path_load_pretrained_imu_encoder: ""
