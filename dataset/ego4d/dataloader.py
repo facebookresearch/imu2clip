@@ -75,6 +75,8 @@ class Ego4dDataset(torch.utils.data.Dataset):
 
         self.window_idx = []
         for video_uid, narrations in tqdm(narration_dict.items()):
+            if video_uid not in self.meta_video:
+                continue
             if not filter_video_uids(video_uid):
                 continue
             if not self.check_modality_clip_uid(video_uid):

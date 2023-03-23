@@ -39,7 +39,9 @@ class Split(object):
     def filter(self, video_uid):
         # this video ids is problematic
         if video_uid in ["ec344610-74f4-4765-9c3f-0837ef78055d"]:
-            return True
+            return False
+        if video_uid in self.set:
+            return True        
         return False
 
 
