@@ -29,9 +29,10 @@ class InfoNCE(nn.Module):
         reduction="mean",
         negative_mode="unpaired",
         symmetric_loss=False,
+        learn_temperature=False,
     ):
         super().__init__()
-        self.temperature = temperature
+        self.temperature = nn.Parameter(torch.tensor(temperature)) if learn_temperature else temperature
         self.reduction = reduction
         self.negative_mode = negative_mode
         self.symmetric_loss = symmetric_loss

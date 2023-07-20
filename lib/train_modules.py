@@ -23,7 +23,7 @@ class MultimodalContrastiveLearningModule(pl.LightningModule):
         self.target_modalities = target_modalities
         self.list_modalities = modality_to_encoder.keys()
 
-        self.loss = InfoNCE(symmetric_loss=True)
+        self.loss = InfoNCE(symmetric_loss=True, learn_temperature=True)
 
         if "imu" in self.list_modalities:
             self.imu_encoder = modality_to_encoder["imu"]
