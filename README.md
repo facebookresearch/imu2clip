@@ -23,7 +23,7 @@ After installing all the library, check the in ```dataset/ego4d/README.md``` for
 # Experiments
 **To run an example train loop**
 ```
-python pretrain.py
+python pretraining.py
 ```
 
 **To run a pretrained model in downstream task**

@@ -61,6 +61,6 @@ for i in range(10):
     print()
     print()
 
-    save_json(f"/fsx/andreamad8/splits/training_{i}.json", training_set)
-    save_json(f"/fsx/andreamad8/splits/validation_{i}.json", validation_set)
-    save_json(f"/fsx/andreamad8/splits/test_{i}.json", test_set)
+    save_json(f"../../splits/training_{i}.json", training_set)
+    save_json(f"../../splits/validation_{i}.json", validation_set)
+    save_json(f"../../splits/test_{i}.json", test_set)

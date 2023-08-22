@@ -37,7 +37,7 @@ class MMdataset(torch.utils.data.Dataset):
         return_label: bool = False,
         lable_fn: Callable[[int, int, str], str] = None,
         dataset_name: str = "ego4d_clip",
-        data_path: str = "/fsx/andreamad8/clips",
+        data_path: str = "../v1/clips",
         window_sample_rate: float = 1.0,
         max_n_windows_per_video: Optional[int] = None,
     ):
@@ -188,7 +188,7 @@ class Ego4dDatasetSupervised(torch.utils.data.Dataset):
         self.audio = audio
         self.imu = imu
         self.class_dict = class_dict
-        self.data_path = "/fsx/andreamad8/full_videos"
+        self.data_path = "../v1/full_videos"
 
         self.window_idx = window_set
         print(f"There are {len(self.window_idx)} windows to process.")

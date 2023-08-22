@@ -20,7 +20,7 @@ torchaudio.set_audio_backend("sox_io")
 import torchvision.io as io
 
 PATH_EGO_META = "./dataset/ego4d/ego4d.json"
-DATA_PATH = "/fsx/andreamad8/clips"
+DATA_PATH = "../../checkpoint/clips"
 
 
 def load_json(json_path: str):

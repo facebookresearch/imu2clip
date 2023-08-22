@@ -28,7 +28,7 @@ class Split(object):
         video_uid_sample_rate: float = 1.0,
     ):
         assert split in ["training", "validation", "test"]
-        self.set = load_json(f"/fsx/andreamad8/splits/{split}_{random_split}.json")
+        self.set = load_json(f"../../splits/{split}_{random_split}.json")
 
         if video_uid_sample_rate != 1.0:
             self.scale(video_uid_sample_rate)
@@ -64,7 +64,7 @@ class MMDataModule(pl.LightningDataModule):
         self.filter_video_uids_train = Split(random_split=0, split="training")
         self.filter_video_uids_validation = Split(random_split=0, split="validation")
         self.filter_video_uids_test = Split(random_split=0, split="test")
-        self.data_path = "/fsx/andreamad8/full_videos"
+        self.data_path = "../v1/full_videos"
         self.meta_video = get_ego4d_metadata("video")
         self.video = "video" in self.dataset_params["list_modalities"]
         self.imu = "imu" in self.dataset_params["list_modalities"]
