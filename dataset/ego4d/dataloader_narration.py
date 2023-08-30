@@ -13,7 +13,7 @@ random.seed(1234)
 
 
 class Ego4dNarration(torch.utils.data.Dataset):
-    DATA_PATH = "/fsx/andreamad8/ego4d_data_narration_new"
+    DATA_PATH = "../v1/"
 
     def __init__(self):
 

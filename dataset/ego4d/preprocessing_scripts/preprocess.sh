@@ -1,18 +1,33 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 
-mkdir /checkpoint/andreamad8/ego4d
+# Directory paths
+ROOT_DIR="$(cd "$(dirname "$0")/../../../" && pwd)"
+BASE_DIR="$ROOT_DIR/checkpoint"
+FULL_VIDEOS_DIR="$BASE_DIR/full_videos"
+CLIPS_DIR="$BASE_DIR/clips"
 
-## Preprocess video
-mkdir /checkpoint/andreamad8/ego4d/full_videos
-mkdir /checkpoint/andreamad8/ego4d/full_videos/processed_video
-# python extract_video.py -v /datasets01/ego4d_track2/v1/full_scale/ -o /checkpoint/andreamad8/ego4d/full_videos/processed_video -f 10 -s 224 
-mkdir /checkpoint/andreamad8/ego4d/clips
-mkdir /checkpoint/andreamad8/ego4d/clips/processed_video
-# python extract_video.py -v /datasets01/ego4d_track2/v1/clips/ -o /checkpoint/andreamad8/ego4d/clips/processed_video -f 10 -s 224
+# Create necessary directories for video preprocessing
+mkdir -p $BASE_DIR
+echo "Creating directories for video preprocessing..."
 
-## Preprocess IMU
-mkdir /checkpoint/andreamad8/ego4d/clips/processed_imu
-mkdir /checkpoint/andreamad8/ego4d/full_videos/processed_imu
+mkdir -p $FULL_VIDEOS_DIR/processed_video
+mkdir -p $CLIPS_DIR/processed_video
 
-python extract_imu.py -v /datasets01/ego4d_track2/v1/imu -o /checkpoint/andreamad8/full_videos/processed_imu
-python extract_imu.py -v /datasets01/ego4d_track2/v1/imu -o /checkpoint/andreamad8/clips/processed_imu
+echo "Extracting full-scale videos..."
+python extract_video.py -v $ROOT_DIR/v1/full_scale/ -o $FULL_VIDEOS_DIR/processed_video -f 10 -s 224
+
+echo "Extracting video clips..."
+python extract_video.py -v $ROOT_DIR/v1/clips/ -o $CLIPS_DIR/processed_video -f 10 -s 224
+
+# Create necessary directories for IMU preprocessing
+echo "Creating directories for IMU preprocessing..."
+mkdir -p $CLIPS_DIR/processed_imu
+mkdir -p $FULL_VIDEOS_DIR/processed_imu
+
+# Run the IMU extraction scripts
+echo "Extracting IMU data for full videos..."
+python extract_imu.py -v $ROOT_DIR/v1/imu -o $FULL_VIDEOS_DIR/processed_imu
+echo "Extracting IMU data for clips..."
+python extract_imu.py -v $ROOT_DIR/v1/imu -o $CLIPS_DIR/processed_imu
+
+echo "Preprocessing completed successfully!"

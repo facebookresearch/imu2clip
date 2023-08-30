@@ -55,14 +55,14 @@ if __name__ == "__main__":
         "--video_dir",
         required=True,
         help="Directory with video files",
-        default="/datasets01/ego4d_track2/v1/clips",
+        default="path_to_videos/full_scale",
     )
     parser.add_argument(
         "-o",
         "--output_dir",
         required=True,
         help="Output dir for audio clips",
-        default="/fsx/andreamad8/processed_videos",
+        default="path_to_preprocess/full_videos/processed_videos",
     )
     parser.add_argument("-f", "--fps", required=True, help="Target fps", default=10)
     parser.add_argument(

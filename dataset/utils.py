@@ -21,7 +21,7 @@ from tqdm import tqdm
 torchaudio.set_audio_backend("sox_io")
 import torchvision.io as io
 
-PATH_EGO_META = "/fsx/andreamad8/ego4d.json"
+PATH_EGO_META = "../v1/ego4d.json"
 PATH_ARIA_META = "/fsx/andreamad8/aria/aria.json"
 
 

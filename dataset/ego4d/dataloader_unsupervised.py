@@ -21,7 +21,7 @@ from dataset.ego4d.utils.utils import (
 from typing import Callable, Optional
 
 random.seed(1234)
-DATA_PATH = "/fsx/andreamad8/full_videos"
+DATA_PATH = "../checkpoint/full_videos"
 
 
 class Ego4dDatasetUnsupervised(torch.utils.data.Dataset):
@@ -46,7 +46,7 @@ class Ego4dDatasetUnsupervised(torch.utils.data.Dataset):
         shuffle_windows: bool = True,
     ):
         self.return_tuple = return_tuple
-        self.cache_imu = {"cache": cache_imu, "path": "/fsx/andreamad8/tmp/video_imu"}
+        self.cache_imu = {"cache": cache_imu, "path": "../../tmp/video_imu"}
         if cache_imu and not os.path.exists(self.cache_imu["path"]):
             os.makedirs(self.cache_imu["path"], exist_ok=True)
         self.window_sec = window_sec
